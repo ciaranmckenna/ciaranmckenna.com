@@ -10,12 +10,12 @@
 
   </div>
 
-  <nav class="column">
+  <nav class="primary-nav column">
 
-    <div class="trigger">
+    <div>
       {% for my_page in site.pages %}
         {% if my_page.title %}
-        <a class="float-right" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+        <a class="primary-nav__item" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
         {% endif %}
       {% endfor %}
     </div>
