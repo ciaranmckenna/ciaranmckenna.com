@@ -113,9 +113,19 @@ pre {
 }
 
 /**
- * Default Link styling
+ * Default Paragraph styling
  */
+p {
+    margin-bottom: $spacing-unit;
+}
 
  a {
      color: $highlight-color;
+     box-sizing: border-box;
+     border-bottom: 3px solid $light-color;
+     transition: .75s all;
+
+     &:hover {
+         border-bottom: 3px solid #d0dd02;
+     }
  }
