@@ -744,6 +744,12 @@ a {
   a:hover {
     border-bottom: 3px solid #d0dd02; }
 
+/**
+  * Default UL styling
+  */
+ul {
+  margin: 4rem 2rem; }
+
 .container {
   max-width: 800px;
   margin: auto; }
@@ -969,6 +975,8 @@ blockquote {
     .primary-nav__item .link-arrow {
       position: relative;
       top: 2px; }
+    .primary-nav__item .is-selected {
+      color: #828282; }
 
 @media screen and (min-width: 640px) {
   .nav-wrap {
