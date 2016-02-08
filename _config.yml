@@ -18,3 +18,6 @@ github_username:  barrymcgee
 
 # Build settings
 markdown: kramdown
+
+# only build incrementally
+incremental: true
