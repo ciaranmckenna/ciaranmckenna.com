@@ -34,6 +34,9 @@ $content-width:    800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+    // Utils
+    "utils/visually-hidden",
+    // Scaffolding
     "milligram",
     "base",
     "layout",
