@@ -694,7 +694,8 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: 1.5rem; }
+  margin: 4rem 2rem;
+  list-style: outside; }
 
 li > ul,
 li > ol {
@@ -743,12 +744,6 @@ a {
   transition: .75s all; }
   a:hover {
     border-bottom: 3px solid #d0dd02; }
-
-/**
-  * Default UL styling
-  */
-ul {
-  margin: 4rem 2rem; }
 
 .container {
   max-width: 800px;
@@ -928,6 +923,25 @@ ul {
   font-size: 15px;
   padding-top: 4.5rem;
   margin: 4.5rem 0 4.5rem; }
+  .footer .social-icons {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+    margin: 4rem 0; }
+    @media screen and (min-width: 768px) {
+      .footer .social-icons {
+        max-width: 25%;
+        margin: 0; } }
+    .footer .social-icons__link, .footer .social-icons__link:hover {
+      border-bottom: 0; }
+  .footer__icon {
+    max-width: 40px; }
+    .footer__icon--wide {
+      max-width: 48px; }
 
 blockquote {
   font-size: 30px;
@@ -935,15 +949,54 @@ blockquote {
   padding-left: 2.25rem;
   margin: 4.5rem 0; }
 
-.overview-list {
-  list-style: none;
-  padding: 0;
-  margin: 3rem 0; }
-  .overview-list__item {
-    margin-bottom: 3rem;
-    positiion: relative; }
-    .overview-list__item:after {
-      content: "---"; }
+.entry-list {
+  margin-top: 4rem; }
+  .entry-list__section-title {
+    font-size: 2.5rem;
+    border-bottom: 1px dotted #424242;
+    display: inline-block;
+    margin: 2rem auto 5rem; }
+  .entry-list__item {
+    margin-bottom: 6rem;
+    display: block; }
+  .entry-list__meta {
+    margin-bottom: 1.2rem;
+    display: block;
+    text-align: center;
+    color: #828282;
+    margin-top: 3rem;
+    padding-top: .5rem; }
+    @media screen and (min-width: 640px) {
+      .entry-list__meta {
+        text-align: left;
+        margin-top: 1rem; } }
+  .entry-list__heading {
+    margin-bottom: 3rem; }
+    .entry-list__heading img {
+      max-width: 200px;
+      margin: 2rem auto 3rem;
+      display: block; }
+
+.next-up {
+  font-size: 16px;
+  display: block;
+  border: 1px solid #424242;
+  padding: 1.5rem 1.5rem 1.2rem;
+  text-transform: uppercase;
+  widows: 100%;
+  text-align: center;
+  margin: 2rem 0 0;
+  border: 1px solid green; }
+  .next-up, .next-up a {
+    color: green; }
+  @media screen and (min-width: 640px) {
+    .next-up {
+      width: auto;
+      float: right;
+      margin: 0; } }
+
+.row .column.column-75 {
+  max-width: 100% !important; }
 
 .primary-nav {
   background: #424242;
