@@ -1,0 +1,68 @@
+.entry-list {
+
+  margin-top: 4rem;
+
+  &__section-title {
+    font-size: 2.5rem;
+    border-bottom: 1px dotted $grey-color-dark;
+    display: inline-block;
+    margin: 2rem auto 5rem;
+  }
+
+  &__item {
+    margin-bottom: 6rem;
+    display: block;
+  }
+
+  &__meta {
+    margin-bottom: $spacing-unit*0.8;
+    display: block;
+    text-align: center;
+    color: $grey-color;
+    margin-top: 3rem;
+    padding-top: .5rem;
+
+    @include mq($bp-small) {
+      text-align: left;
+      margin-top: 1rem;
+    }
+  }
+
+  &__heading {
+
+    img {
+      max-width: 200px;
+      margin: 2rem auto 3rem;
+      display: block;
+    }
+
+    margin-bottom: 3rem;
+  }
+}
+
+.next-up {
+  font-size: 16px;
+  display: block;
+  border: 1px solid $grey-color-dark;
+  padding: 1.5rem 1.5rem 1.2rem;
+  text-transform: uppercase;
+  widows: 100%;
+  text-align: center;
+  margin: 2rem 0 0;
+  border: 1px solid $green-color;
+
+  &, a {
+    color: $green-color;
+  }
+
+  @include mq($bp-small) {
+    width: auto;
+    float: right;
+    margin: 0;
+  }
+}
+
+// Grid override
+.row .column.column-75 {
+  max-width: 100%!important;
+}
