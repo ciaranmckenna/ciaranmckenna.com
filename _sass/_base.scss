@@ -69,7 +69,8 @@ figcaption {
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+    margin: 4rem 2rem;
+    list-style: outside;
 }
 
 li {
@@ -129,10 +130,3 @@ p {
          border-bottom: 3px solid #d0dd02;
      }
  }
-
- /**
-  * Default UL styling
-  */
-  ul {
-      margin: 4rem 2rem;
-  }
