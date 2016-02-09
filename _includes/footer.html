@@ -1,6 +1,48 @@
-<footer class="footer">
-  <p>Code released under General Public License, version 3.0
-    (<a href="http://opensource.org/licenses/lgpl-3.0.html" target="_blank">LGPL-3.0</a>).
-    Found a bug? <a href="">Let me know!</a></p>
-    <p>With ♥ from me in 2016.</p>
+<footer class="footer row">
+
+  <div class="column">
+    <p>Licenced under <a href="http://opensource.org/licenses/lgpl-3.0.html" target="_blank">GPL v3.0</a>.
+    Found a bug? <a href="https://github.com/barrymcgee/bmg-co-uk/issues">Let me know!</a></p>
+    <p>Crafted with ♥ by me in 2016 - <a href="https://github.com/barrymcgee/bmg-co-uk">View the source</a></p>
+  </div>
+  <div class="column social-icons">
+    <a class="social-icons__link" href="https://www.linkedin.com/in/barrymcgee" rel="me" target="_blank">
+      <img src="http://cdn.brymge.net/img/linkedin.svg?v=1.00" alt="LinkedIn icon" class="footer__icon">
+    </a>
+    <a class="social-icons__link" href="https://github.com/barrymcgee" rel="me" target="_blank">
+      <img src="http://cdn.brymge.net/img/github.svg?v=1.00" alt="Github icon" class="footer__icon">
+    </a>
+    <a class="social-icons__link" href="https://twitter.com/barrymcgee" rel="me" target="_blank">
+      <img src="http://cdn.brymge.net/img/twitter.svg?v=1.001" alt="Twitter icon" class="footer__icon footer__icon--wide">
+    </a>
+  </div>
+
+
 </footer>
+
+<script>
+(function() {
+
+  // cache dom elements
+  var body = document.body,
+      navTrigger = document.querySelector(".js-nav-trigger"),
+      container = document.querySelector(".container"),
+      primaryNav = document.querySelector(".js-primary-nav");
+
+  // Flag that JS has loaded
+  body.classList.remove("no-js");
+  body.classList.add("js");
+
+  // add event ,listener on click
+  navTrigger.addEventListener("click", function(){
+
+    // toggle active class on the nav trigger
+    this.classList.toggle("open");
+
+    // toggle the active class on site container
+    container.classList.toggle("js-nav-active");
+
+  }, false);
+
+})();
+</script>

@@ -1,5 +1,30 @@
 .footer {
   border-top: 1px dotted $grey-color-dark;
-  padding-top: $spacing-unit * 3;
-  margin-top: $spacing-unit * 3;
+  font-size: $small-font-size;
+  padding-top: $spacing-unit*3;
+  margin: $spacing-unit*3 0 $spacing-unit*3;
+
+  .social-icons {
+    display: flex;
+    justify-content: space-around;
+    margin: 4rem 0;
+
+    @include mq($bp-medium) {
+      max-width: 25%;
+      margin: 0;
+    }
+
+    &__link,
+    &__link:hover {
+      border-bottom: 0;
+    }
+  }
+
+  &__icon {
+    max-width: 40px;
+
+    &--wide {
+      max-width: 48px;
+    }
+  }
 }
