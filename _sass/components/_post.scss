@@ -1,0 +1,18 @@
+.post {
+
+  &__meta {
+    color: $grey-color;
+  }
+
+  &__content {
+
+    img {
+      margin: $spacing-unit 0 $spacing-unit*2;
+    }
+
+    p:first-child {
+      font-size: $spacing-unit*1.5;
+      font-style: italic;
+    }
+  }
+}
