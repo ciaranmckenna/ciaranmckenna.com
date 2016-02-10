@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>I&#39;m a Front End Developer - based in London, England.
+</description>
+    <link>https://www.barrymcgee.co.uk/</link>
+    <atom:link href="https://www.barrymcgee.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Feb 2016 01:02:00 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Feb 2016 01:02:00 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Embracing the IndieWeb</title>
+        <description>&lt;p&gt;I spent last weekend building and deploying this website - who says a cobbler can’t have shiny new shoes?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cdn.brymge.net/img/night-lights.jpg&quot; alt=&quot;Mssy trees&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I recently attended January’s &lt;a href=&quot;http://www.frontendlondon.co.uk&quot;&gt;Front End London&lt;/a&gt; meetup and listened to &lt;a href=&quot;https://calumryan.com&quot;&gt;Calum Ryan&lt;/a&gt; gave a great presentation about the &lt;a href=&quot;https://indiewebcamp.com/&quot;&gt;IndieWeb movement&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;What is the IndieWeb? According to their site they are;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The IndieWeb is a people-focused alternative to the “corporate web”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Basically they are a group advocating the people take back ownership of their own content and self host.&lt;/p&gt;
+
+&lt;p&gt;This movement not something I had been aware of but elucidated very nicely what I had already been thinking for a while - mainly that the walled gardens of Silicon Valley like Facebook et al were were becoming the internet.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;stylesheet&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/css/main.css&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;canonical&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.barrymcgee.co.uk/development/2016/02/04/embracing-the-indieweb.html&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+</description>
+        <pubDate>Thu, 04 Feb 2016 13:59:19 +0000</pubDate>
+        <link>https://www.barrymcgee.co.uk/development/2016/02/04/embracing-the-indieweb.html</link>
+        <guid isPermaLink="true">https://www.barrymcgee.co.uk/development/2016/02/04/embracing-the-indieweb.html</guid>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
