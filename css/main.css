@@ -749,18 +749,12 @@ a {
   max-width: 800px;
   margin: auto; }
 
-.post-content img {
-  margin: 1.5rem 0 3rem; }
-
-.post-content p:first-child {
-  font-size: 2.25rem;
-  font-style: italic; }
-
 /**
  * Syntax highlighting styles
  */
 .highlight {
-  background: #fff; }
+  background: #fff;
+  margin-bottom: 1.5rem; }
   .highlighter-rouge .highlight {
     background: #eef; }
   .highlight .c {
@@ -903,6 +897,11 @@ a {
   margin: 2.25rem 0 4.5rem;
   width: 100%;
   position: relative; }
+  .header__link {
+    border: 0;
+    color: #111; }
+    .header__link:hover {
+      border: 0; }
   .header__title {
     font-size: 3rem;
     text-transform: uppercase;
@@ -1156,5 +1155,15 @@ blockquote {
         text-align: right; }
         .primary-nav-wrap .primary-nav__item:last-child {
           margin-right: 0; } }
+
+.post__meta {
+  color: #828282; }
+
+.post__content img {
+  margin: 1.5rem 0 3rem; }
+
+.post__content p:first-child {
+  font-size: 2.25rem;
+  font-style: italic; }
 
 /*# sourceMappingURL=maps/main.css.map */
