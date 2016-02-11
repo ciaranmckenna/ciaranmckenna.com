@@ -13,7 +13,7 @@
   <link href='https://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="https://www.barrymcgee.co.uk/development/2016/02/10/embracing-the-indieweb.html">
+  <link rel="canonical" href="https://www.barrymcgee.co.uk/development/2016/02/11/embracing-the-indieweb.html">
   <link rel="alternate" type="application/rss+xml" title="" href="https://www.barrymcgee.co.uk/feed.xml">
 
   <!-- Favicon -->
@@ -120,8 +120,8 @@
   <header class="post__header">
     <h1 class="post__title" itemprop="name headline">Embracing the IndieWeb</h1>
     <p class="post__meta">
-      <time datetime="2016-02-10T07:59:19+00:00" itemprop="datePublished" class="dt-published">
-        Feb 10, 2016</time>
+      <time datetime="2016-02-11T00:20:19+00:00" itemprop="datePublished" class="dt-published">
+        Feb 11, 2016</time>
          •
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <span class="p-author h-card" itemprop="name">
@@ -167,7 +167,26 @@ for my Google+ profile in the head of this site because… well, Google+.</p>
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html">  <span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"me"</span> <span class="na">href=</span><span class="s">"https://plus.google.com/u/0/111779287499137528056/about"</span><span class="nt">&gt;</span></code></pre></figure>
 
-<p>My third and last step for now is to add a</p>
+<p>My third and last step for now is to add some <a href="http://microformats.org/">Microformats</a>, a simple method to convey
+semantic meaning via markup.</p>
+
+<p>I remember looking at Microformats many years ago and thought they would become much
+more prevalent than they actually have. However, implementation of Microformats seems
+to have simplified in recent years so marking up a vCard is now as easy as adding some classes.</p>
+
+<p>This is what I’ve added to my contact page to create a vCard:</p>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html">  <span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">"vcard"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;li&gt;&lt;a</span> <span class="na">class=</span><span class="s">"tel"</span> <span class="na">href=</span><span class="s">"tel:+447742343792"</span><span class="nt">&gt;</span>+44 (0) 7742 343 792<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
+    <span class="nt">&lt;li&gt;&lt;a</span> <span class="na">class=</span><span class="s">"email"</span> <span class="na">href=</span><span class="s">"mailto:hello@barrymcgee.co.uk"</span> <span class="na">rel=</span><span class="s">"me"</span><span class="nt">&gt;</span>hello@barrymcgee.co.uk<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
+  <span class="nt">&lt;/ul&gt;</span></code></pre></figure>
+
+<p>Personally, I’d prefer if the implementation involved a data attribute such as <code class="highlighter-rouge">data-vcard="tel"</code> or similar
+as I imagine that adding such generic classes as ‘email’ and ‘tel’ would cause styling conflicts on many sites.</p>
+
+<p>So - that’s it for now. A new site, some small steps to IndieWeb it and a commitment to publish more here.</p>
+
+<p>Stay tuned.</p>
 
   </div>
 
