@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Embracing the IndieWeb"
-date:   2016-02-10 07:59:19 +0000
+date:   2016-02-11 00:20:19 +0000
 author: Barry McGee
 categories: development
 ---
@@ -42,4 +42,25 @@ for my Google+ profile in the head of this site because... well, Google+.
   <link rel="me" href="https://plus.google.com/u/0/111779287499137528056/about">
 {% endhighlight %}
 
-My third and last step for now is to add a
+My third and last step for now is to add some [Microformats](http://microformats.org/), a simple method to convey
+semantic meaning via markup.
+
+I remember looking at Microformats many years ago and thought they would become much
+more prevalent than they actually have. However, implementation of Microformats seems
+to have simplified in recent years so marking up a vCard is now as easy as adding some classes.
+
+This is what I've added to my contact page to create a vCard:
+
+{% highlight html %}
+  <ul class="vcard">
+    <li><a class="tel" href="tel:+447742343792">+44 (0) 7742 343 792</a></li>
+    <li><a class="email" href="mailto:hello@barrymcgee.co.uk" rel="me">hello@barrymcgee.co.uk</a></li>
+  </ul>
+{% endhighlight %}
+
+Personally, I'd prefer if the implementation involved a data attribute such as `data-vcard="tel"` or similar
+as I imagine that adding such generic classes as 'email' and 'tel' would cause styling conflicts on many sites.
+
+So - that's it for now. A new site, some small steps to IndieWeb it and a commitment to publish more here.
+
+Stay tuned.
