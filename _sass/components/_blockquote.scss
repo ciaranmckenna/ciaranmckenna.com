@@ -4,3 +4,7 @@ blockquote {
   padding-left: $spacing-unit * 1.5;
   margin: $spacing-unit*3 0;
 }
+
+.blockquote--comment {
+  font-size: $base-font-size;
+}
