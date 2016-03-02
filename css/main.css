@@ -948,6 +948,9 @@ blockquote {
   padding-left: 2.25rem;
   margin: 4.5rem 0; }
 
+.blockquote--comment {
+  font-size: 20px; }
+
 .entry-list {
   margin-top: 4rem; }
   .entry-list__section-title {
@@ -1158,6 +1161,14 @@ blockquote {
 
 .post__meta {
   color: #828282; }
+
+.post h2, .post h3, .post h4 {
+  margin-bottom: 2rem; }
+
+.post hr {
+  border-top: 0.1rem dotted #828282;
+  margin: 4rem auto 5rem;
+  width: 50%; }
 
 .post__content img {
   margin: 1.5rem 0 3rem; }
