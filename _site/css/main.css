@@ -663,7 +663,8 @@ body {
   font-feature-settings: "kern" 1;
   -webkit-font-kerning: normal;
      -moz-font-kerning: normal;
-          font-kerning: normal; }
+          font-kerning: normal;
+  -webkit-font-smoothing: antialiased; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
