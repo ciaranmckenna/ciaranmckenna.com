@@ -16,23 +16,23 @@ Before going any further, I’ll lay my cards on the table — I’m a solid
 
 How did we get here in the first place? David Cameron thought he could shoot the UKIP fox by promising an EU referendum and removing the motivation to vote UKIP. Support for the EU would be surely a shoo-in and that would also finally silence the raucous Tory backbench.
 
-This clever strategy has now spectacularly backfired on him as calling the referendum has only served to galvanise Eurosceptics across all parties and fired up a public still stinging from the recession and keen to lash out.
+This not-so-clever strategy has now spectacularly backfired on him as calling the referendum has only served to galvanise Eurosceptics across all parties and fired up a public still stinging from the recession and keen to lash out.
 
 Now, what started as an internal Tory party ruck has morphed into the biggest political choice of my lifetime, the UK sleepwalking towards the precipice and Downing St left wondering that the hell it was smoking when it promised the referendum in the first place.
 
-Lets address some main themes that have dominated the debate.
+Lets address some of the main themes that have dominated the debate.
 
 ## Immigration
 
 The biggie. I’ve always thought that no matter what anyone else said, the issue of immigration would decide this referendum. Decrying immigration has been UKIP's <em>raison d'être</em> from day one and UKIP are the number one reason this referendum was called in the first place.
 
-I agree that there is a big problem in the UK with immigration, or at the very least, there's a big problem with the perception of immigration. The common complaint is the immigrants are coming over here, squeezing public services, taking our houses, taking our jobs, or if they're not taking our jobs - they're claiming benefits.
+I agree that there is a big problem in the UK with immigration, or at the very least, there's a big problem with the perception of immigration. The common complaint is the immigrants are coming over here, squeezing public services, taking all the houses, taking all the jobs, or if they're not taking all the jobs - they're claiming all the benefits.
 
-Official figures have repeatedly confirmed that immigrants are net contributors to the UK [1]. 91% of social housing goes to UK nationals [2]. 82% of non-UK nationals never use social housing in their lives. [2] Less than 3% of UK benefits is given to immigrants. [3]
+Official figures have repeatedly confirmed that these perceptions are not true. Immigrants are net contributors to the UK [1]. 91% of social housing goes to UK nationals [2]. 82% of non-UK nationals never use social housing in their lives. [2] Less than 3% of UK benefits is given to immigrants. [3]
 
 In truth, the squeeze in public services is not because of immigrants but under-funding and mismanagement by successive governments particularly exacerbated in recent years by acute austerity.
 
-This perception and rage is compounded by a hysterical right wing media. The Sun & The Daily Mail are the two most popular daily newspapers in the UK, with combined daily circulation of about 5 million.
+This perception and rage is compounded by a hysterical right wing media. The Sun & The Daily Mail are the two most popular daily newspapers in the UK, with a combined daily circulation of about 5 million.
 
 <div class="post__media">
 
@@ -41,7 +41,8 @@ This perception and rage is compounded by a hysterical right wing media. The Sun
 
         <p>The problem is that people don't want to hear reasoned truth and logic because at the root of their discontent is an emotional reaction to what they see as a loss of their culture and way of life.</p>
 
-        <p>During the 2010 General Election, then Prime Minister Gordon Brown crossed paths with local woman Gillian Duffy on the campaign trail in Rochdale.</p>
+        <p>People don't care about dry facts and figures about GDP etc when what used to be their local pub is now a Polish deli & the local primary school they went to now has 25 distinct languages reverberating around the playground.</p>
+
     </div>
 
     <div class="post__media-col">
@@ -50,9 +51,9 @@ This perception and rage is compounded by a hysterical right wing media. The Sun
     </div>
  </div>
 
-In nine schools across Rochdale, 70 per cent of the children speak English as a foreign language [4]. In a now [infamous exchange](http://www.theguardian.com/politics/2010/apr/28/gordon-brown-gillian-duffy-transcript), she dared complain about the effects of immigration on the local community and he called her a bigot once he (thought he) was safely back in his ministerial car.
+During the 2010 General Election, then Prime Minister Gordon Brown crossed paths with local woman Gillian Duffy on the campaign trail in Rochdale.
 
-People don't care about dry facts and figures about GDP etc when what used to be their local pub is now a Polish deli & the local primary school they went to now has 25 distinct languages reverberating around the playground.
+In nine schools across Rochdale, 70 per cent of the children speak English as a foreign language [4]. In a now [infamous exchange](http://www.theguardian.com/politics/2010/apr/28/gordon-brown-gillian-duffy-transcript), she dared complain about the effects of immigration on the local community and he called her a bigot once he (thought he) was safely back in his ministerial car.
 
 Failure of government to see this effect of an open-door EU policy on working-class communities and address it without insinuating that anyone complaining are racist or bigoted has created a festering rage that we now see boiling over.
 
@@ -64,7 +65,7 @@ This fear and perception is not just confined to places where immigration is hig
 
 </blockquote>
 
-The Leave campaign are insinuating Brexit will be the silver bullet to solve all immigration woes. It will not. Only about 50% of net migration last year was from within the EU. The other 50%, the UK Border Agency already has full control over and still hasn't reduced figures.
+However, the Leave campaign are insinuating Brexit will be the silver bullet to solve all immigration woes. It will not. Only about 50% of net migration last year was from within the EU. The other 50%, the UK Border Agency already has full control over and the figures have still not reduced. This is because the UK economy needs migrants to prosper.
 
 Put simply - leaving the EU will not fix the issues people currently have with immigration.
 
@@ -118,13 +119,13 @@ Nigel Farage has even admitted that a hit is inevitable but it'll be a "price wo
 
 Despite his man of the people schtick Farage is a [wealthy man](http://www.londonlovesbusiness.com/business-news/politics/how-rich-is-nigel-farage/9363.article). I wonder how many working class people will still think it's a price worth paying when they're the guts of five grand worse off come end of next year? As a wise man in Belfast once said, you can't eat a flag.
 
-When it comes to Northern Ireland, the prospects are even more stark. As a small economy, sharing a land border with the EU - NI's position is even more vulnerable. This has been echoed by many reputable voices over the recent months.
+When it comes to Northern Ireland, the prospects are even more stark. As a small economy, sharing a land border with the EU post-Brexit - NI's position is even more vulnerable. This has been echoed by many reputable voices over the recent months.
 
 Earlier this week the ex-head of the World Trade Organisation described Brexit an <em>"act of wanton destruction"</em> for the Northern Irish economy <small>[10]</small>. Dead hand on the NI wheel and prominent Leave campaigner Theresa Villiers dismissed this view as from a "so-called expert" - if the ex-Head of the World Trade Organisation is not an expert on global trade, who is?
 
 <blockquote>
 <p>"Those who invest in Ireland, north or south, are doing so because it provides them with the manufacturing base to sell to the European Union"</p>
-<cite><a href="">Peter Sutherland</a> - BBC News</cite>
+<cite>Peter Sutherland - <a href="http://www.bbc.co.uk/news/uk-northern-ireland-36510787">BBC News</a></cite>
 </blockquote>
 
 A further fall in unemployment figures this week has resulted in NI having the record [levels of employment](http://www.bbc.co.uk/news/uk-northern-ireland-36536332).
@@ -144,13 +145,20 @@ Looking to Northern Ireland - again this is where NI is more vulnerable than the
 
 Theresa Villiers will tell you that Ireland the UK shared a common travel area long before the EU was formed and will do so again. What'll she'll fail to add is that Ireland and the UK joined the EU on the same day and therefore the Irish border has never been a land border of the EU - a crucial difference.
 
-I grew up 3 miles from the Irish border and remember it vividly. We sat queued in the back of the car at border custom checkpoints en route to buy bread, milk and lotto tickets - before the UK Lotto was a thing. Our local pub is now the other side of that border. It now separates my parents from my sister but you'd never know to drive it. From Dundalk to Derry - 30,000 people criss-cross the border daily for work and leisure. Border dwellers are [dreading Brexit](http://www.theguardian.com/politics/2016/may/23/beyond-borders-the-irish-villages-dreading-a-brexit-vote). It's unthinkable that we may be voting for the old setup to return.
+I grew up 3 miles from the Irish border and remember it vividly. We sat queued in the back of the car at border custom checkpoints en route to buy bread, milk and lotto tickets (before the UK Lotto was a thing).
+
+Our local pub is now the other side of that border. It now separates my parents from my sister but you'd never know to drive it. From Dundalk to Derry - 30,000 people criss-cross the border daily for work and leisure. Border dwellers are [dreading Brexit](http://www.theguardian.com/politics/2016/may/23/beyond-borders-the-irish-villages-dreading-a-brexit-vote). It's unthinkable that we may be voting for the old setup to return.
 
 The Leave campaign is currently asserting that they'll take back control of UK borders and that there'll be no changes to the Irish border. They can't be right on both counts. In the case of Brexit increased border controls are an inevitability - it's not a case of If, but Where?
 
 The peace process has been lurching along in fits and starts for the best part of two decades but lets not forget it's only four years ago that changing the flag protocol at Belfast City Hall to reflect that of Buckingham Palace caused months of civil disobedience and street protests that continue weekly to this day. What happens when fences start to appear along the border again?
 
-On the positive side, let's not forget the contribution the EU has made to peace and community relations in Northern Ireland. The Peace Bridge in Derry connecting the Fountain to the Bogside was EU funded and the EU awards grants to many community groups to promote cross-community collaboration.
+<blockquote>
+<p>"The fear in Dublin is that our border towns would become a backdoor into the UK. In that instance what sort of fortress would the Northern Ireland border have to become to close that backdoor?"</p>
+<cite>Phil Hogan, European Commissioner for Agriculture, 9 May 2016 - <a href="https://fullfact.org/europe/eu-referendum-and-irish-border/">FullFact.org</a></cite>
+</blockquote>
+
+On the positive side, the EU has made a huge contribution to peace and community relations in Northern Ireland. The Peace Bridge in Derry connecting the Fountain to the Bogside was EU funded and the EU awards grants to many community groups to promote cross-community collaboration.
 
 The EU funded the renovation of the Waterfront Hall in Belfast. The EU funded the Giants Causeway Visitor Centre plus many other smaller projects I knew nothing about until I researched it such as such as upgrading quay walls in Kilkeel and repositioning Dungannon's civic spaces.
 
