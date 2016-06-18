@@ -4,8 +4,39 @@
     color: $grey-color;
   }
 
+  &__intro {
+    font-size: 2.5rem;
+    margin: 3rem 0 2rem;
+  }
+
+  &__note {
+    border: 1px dashed #ccc;
+    padding: 1rem;
+    margin: 2rem 0 3rem;
+  }
+
+  &__media {
+    display: block;
+    @extend .clearfix;
+  }
+
+  @media screen and (min-width:740px){
+
+    &__media-col {
+      display: block;
+      width: 50%;
+      float: left;
+
+      &:first-child {
+        padding-right: 2rem;
+      }
+    }
+  }
+
+
+
   h2, h3, h4 {
-    margin-bottom: 2rem;
+    margin: 3rem 0 2rem;
   }
 
   hr {

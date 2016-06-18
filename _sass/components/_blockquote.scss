@@ -3,6 +3,12 @@ blockquote {
   font-style: italic;
   padding-left: $spacing-unit * 1.5;
   margin: $spacing-unit*3 0;
+
+  cite {
+    display: block;
+    font-size: 2rem;
+    margin-top: 3rem;
+  }
 }
 
 .blockquote--comment {

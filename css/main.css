@@ -623,14 +623,14 @@ h6 {
 .float-left {
   float: left; }
 
-.clearfix {
+.clearfix, .post__media {
   *zoom: 1; }
 
-.clearfix:after, .clearfix:before {
+.clearfix:after, .post__media:after, .clearfix:before, .post__media:before {
   content: "";
   display: table; }
 
-.clearfix:after {
+.clearfix:after, .post__media:after {
   clear: both; }
 
 /**
@@ -948,6 +948,10 @@ blockquote {
   font-style: italic;
   padding-left: 2.25rem;
   margin: 4.5rem 0; }
+  blockquote cite {
+    display: block;
+    font-size: 2rem;
+    margin-top: 3rem; }
 
 .blockquote--comment {
   font-size: 20px; }
@@ -1163,8 +1167,28 @@ blockquote {
 .post__meta {
   color: #828282; }
 
+.post__intro {
+  font-size: 2.5rem;
+  margin: 3rem 0 2rem; }
+
+.post__note {
+  border: 1px dashed #ccc;
+  padding: 1rem;
+  margin: 2rem 0 3rem; }
+
+.post__media {
+  display: block; }
+
+@media screen and (min-width: 740px) {
+  .post__media-col {
+    display: block;
+    width: 50%;
+    float: left; }
+    .post__media-col:first-child {
+      padding-right: 2rem; } }
+
 .post h2, .post h3, .post h4 {
-  margin-bottom: 2rem; }
+  margin: 3rem 0 2rem; }
 
 .post hr {
   border-top: 0.1rem dotted #828282;
