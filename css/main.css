@@ -1176,6 +1176,9 @@ blockquote {
   padding: 1rem;
   margin: 2rem 0 3rem; }
 
+.post__image {
+  width: 100%; }
+
 .post__media {
   display: block; }
 
