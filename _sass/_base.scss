@@ -128,6 +128,6 @@ p {
      transition: .75s all;
 
      &:hover {
-         border-bottom: 3px solid #d0dd02;
+         border-bottom: 3px solid $highlight-color;
      }
  }

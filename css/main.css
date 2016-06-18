@@ -744,7 +744,7 @@ a {
   -webkit-transition: .75s all;
   transition: .75s all; }
   a:hover {
-    border-bottom: 3px solid #d0dd02; }
+    border-bottom: 3px solid #0892D0; }
 
 .container {
   max-width: 800px;
