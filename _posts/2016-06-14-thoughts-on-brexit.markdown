@@ -22,11 +22,25 @@ Now, what started as an internal Tory party ruck has morphed into the biggest po
 
 Lets address some of the main themes that have dominated the debate.
 
+
+## Cost of Membership
+
+Emblazoned on the side of the Leave battle bus is the statement - <em>"We send the EU £350 million a week - let's fund our NHS instead."</em> This is an outright lie and despite the Leave campaign being told repeatedly it's a lie, it remains big and bold on the side of their bus as it travels around the UK.   
+
+After accounting for the money that the EU sent back to Britain and EU spending included in the UK foreign aid target, the net cost was £120 million a week or £17 million a day in 2015.
+
+£17 million a day is a lot of money when you think what one person could do with it. However, it's relatively small sum for a developed country of ~65 million people. The UK spends **less than 0.5%** of overall spending on EU membership. Per person, that’s 26p a day.
+
+However, the real kicker is that even in the event of Brexit anyway, there would still be a bill to be paid. If, as the Leave campaign have already inferred, the UK would request access to the EU market in much the same way as Norway, the UK would have to pay for it. The net payment Norway makes for its arrangement is **about the same** as the UK pays currently per person - except of course, they have no say at the EU table.
+
+UK annual spend is a mind-boggling 700 billion - don't allow the Leave campaign to over-awe you with big numbers. Sometimes, even big numbers can be smaller than you think.
+
+
 ## Immigration
 
 The biggie. I’ve always thought that no matter what anyone else said, the issue of immigration would decide this referendum. Decrying immigration has been UKIP's <em>raison d'être</em> from day one and UKIP are the number one reason this referendum was called in the first place.
 
-I agree that there is a big problem in the UK with immigration, or at the very least, there's a big problem with the perception of immigration. The common complaint is the immigrants are coming over here, squeezing public services, taking all the houses, taking all the jobs, or if they're not taking all the jobs - they're claiming all the benefits.
+I agree that there is a big problem in the UK with immigration, or at the very least, there's a big problem with the <em>perception</em> of immigration. The common complaint is that immigrants are coming over here, squeezing public services, taking all the houses, taking all the jobs, or if they're not taking all the jobs - they're claiming all the benefits.
 
 Official figures have repeatedly confirmed that these perceptions are not true. Immigrants are net contributors to the UK [1]. 91% of social housing goes to UK nationals [2]. 82% of non-UK nationals never use social housing in their lives. [2] Less than 3% of UK benefits is given to immigrants. [3]
 
@@ -55,9 +69,9 @@ During the 2010 General Election, then Prime Minister Gordon Brown crossed paths
 
 In nine schools across Rochdale, 70 per cent of the children speak English as a foreign language [4]. In a now [infamous exchange](http://www.theguardian.com/politics/2010/apr/28/gordon-brown-gillian-duffy-transcript), she dared complain about the effects of immigration on the local community and he called her a bigot once he (thought he) was safely back in his ministerial car.
 
-Failure of government to see this effect of an open-door EU policy on working-class communities and address it without insinuating that anyone complaining are racist or bigoted has created a festering rage that we now see boiling over.
+Failure of government to recognise this effect of EU freedom of movement on working-class communities and address it without insinuating that anyone complaining is a racist or bigoted has created a festering rage that we now see boiling over.
 
-This fear and perception is not just confined to places where immigration is high. It's arguably more acutely felt in places where immigrants are rare but anecdotes are plentiful. It's much easier to advocate kicking out all the immigrants when you don't count any of them as friends or family.
+This fear and perception is not just confined to places where immigration is high. It's arguably more acutely felt in places where immigrants are rare but anecdotes are plentiful. I suppose it's much easier to advocate kicking out all the immigrants when you don't count any of them as friends or family.
 
 <blockquote>
 <p>"My brother and sister have lived all their life in Devon and rarely encounter anyone who is foreign or even black. Consequently they are very pro-Leave."</p>
@@ -80,11 +94,15 @@ The UK should remain in the EU to influence and shape these migration challenges
 
 ## Sovereignty
 
-Much has been made of jingoistic Leave rhetoric of "Let's make Britain Great again" and "Let's take back control". Joe Public is now parroting back these lines in full throated rebukes on the evening news - but, what do they actually mean?
+Capital been made with jingoistic Leave rhetoric of "Let's make Britain Great again" and "Let's take back control". Joe Public is now parroting back these lines in full throated rebukes on the evening news - but, what do they actually mean?
 
 <p class="post__note"><em>Note:</em> I wrote this draft at the start of this week before the heinous murder on Jo Cox by a delusional psychopath shouting "Britain first". Now, re-reading the paragraph above in the light of Thursday, it's hard not be angry about the irresponsibility of cultivating a climate where someone thought it was entirely justified to carry out such an act. Alex Massie wrote a very eloquent response to the attack in the Spectator - "<a href="http://blogs.spectator.co.uk/2016/06/a-day-of-infamy/">Sometimes, rhetoric has consequences.</a>"</p>
 
-After 40 years of unfettered access to the world's largest trading bloc, Britain is currently sitting as the fifth largest economy in the world. Crime is down. Unemployment is down. Household income up. Healthy life expectancy has soared. Air quality has vastly improved. Access to green and public spaces such as forestry has hugely increased. When exactly did Britain stop being Great? Where and what did it lose control of? And more importantly, how exactly will leaving the EU make Britain greater? The Leave campaign is big on rhetoric but small on actual detail.
+After 40 years of unfettered access to the world's largest trading bloc, Britain is currently sitting as the fifth largest economy in the world. Crime is down. Unemployment is down. Household income up. Healthy life expectancy has soared. Air quality has vastly improved. Access to green and public spaces such as forestry has hugely increased.
+
+When exactly did Britain stop being Great? Where and what did it lose control of? And more importantly, how exactly will leaving the EU make Britain greater?
+
+The Leave campaign is big on rhetoric but small on actual detail.
 
 Taking back control is the other big call. Leave continually bang an angry drum about unelected EU bureaucrats but fail to acknowledge that the UK electorate (or any electorate for that matter) never really calls all the shots.
 
@@ -130,7 +148,11 @@ Earlier this week the ex-head of the World Trade Organisation described Brexit a
 
 A further fall in unemployment figures this week has resulted in NI having the record [levels of employment](http://www.bbc.co.uk/news/uk-northern-ireland-36536332).
 
-Why would we put that at risk? Why ignore experienced voices? Why dismiss people who have spent their professional lives studying this stuff?
+Why would we put that at risk?
+
+Why ignore experienced voices?
+
+Why dismiss people who have spent their professional lives studying this stuff?
 
 
 ## War & Peace
@@ -145,9 +167,9 @@ Looking to Northern Ireland - again this is where NI is more vulnerable than the
 
 Theresa Villiers will tell you that Ireland the UK shared a common travel area long before the EU was formed and will do so again. What'll she'll fail to add is that Ireland and the UK joined the EU on the same day and therefore the Irish border has never been a land border of the EU - a crucial difference.
 
-I grew up 3 miles from the Irish border and remember it vividly. We sat queued in the back of the car at border custom checkpoints en route to buy bread, milk and lotto tickets (before the UK Lotto was a thing).
+I grew up 3 miles from the Irish border and remember when it was fortified vividly. We sat queued in the back of the car at border custom checkpoints en route to buy bread, milk and lotto tickets (before the UK Lotto was a thing).
 
-Our local pub is now the other side of that border. It now separates my parents from my sister but you'd never know to drive it. From Dundalk to Derry - 30,000 people criss-cross the border daily for work and leisure. Border dwellers are [dreading Brexit](http://www.theguardian.com/politics/2016/may/23/beyond-borders-the-irish-villages-dreading-a-brexit-vote). It's unthinkable that we may be voting for the old setup to return.
+Our local pub is now the other side of that border. It now separates my parents from my sister but you'd never know to drive it. From Dundalk to Derry - 30,000 people criss-cross the border daily for work and leisure without thinking. Border dwellers are [dreading Brexit](http://www.theguardian.com/politics/2016/may/23/beyond-borders-the-irish-villages-dreading-a-brexit-vote). It's unthinkable that we may be voting for the days of old to return.
 
 The Leave campaign is currently asserting that they'll take back control of UK borders and that there'll be no changes to the Irish border. They can't be right on both counts. In the case of Brexit increased border controls are an inevitability - it's not a case of If, but Where?
 
@@ -160,7 +182,11 @@ The peace process has been lurching along in fits and starts for the best part o
 
 On the positive side, the EU has made a huge contribution to peace and community relations in Northern Ireland. The Peace Bridge in Derry connecting the Fountain to the Bogside was EU funded and the EU awards grants to many community groups to promote cross-community collaboration.
 
-The EU funded the renovation of the Waterfront Hall in Belfast. The EU funded the Giants Causeway Visitor Centre plus many other smaller projects I knew nothing about until I researched it such as such as upgrading quay walls in Kilkeel and repositioning Dungannon's civic spaces.
+The EU funded the renovation of the Waterfront Hall in Belfast. The EU funded the Giants Causeway Visitor Centre. The EU funded the recent refurbishment of the Enterprise cross-border train. The EU funds the Skainos centre hosting Irish classes in East Belfast.
+
+The EU also funds many other smaller projects I knew nothing about until I researched EU funding for this post. Relatively obscure projects such as upgrading the quay walls in Kilkeel and repositioning Dungannon's civic spaces. Funding towards a cold store and blast freezing facility for Ardglass Sea Products and funding to help restock the River Bann with eel.
+
+These may seem insignificant in the big picture but they're hugely significant to the people they benefit and these EU beneficiaries are scattered across the country. In a climate where the UK Government can't keep public libraries open - how much of this funding do we think will be replaced post-Brexit?
 
 I haven't even touched on the Single Farm Payment, without which NI farmers would have made **zero profit** last year.
 
@@ -172,7 +198,9 @@ Do you trust him to match or better what the EU currently sends to Northern Irel
 
 ## One choice
 
-This is not a general election - a vote to Leave cannot be reversed in five years. If you're undecided, error on the side of caution. Use your vote wisely - **vote Remain** on June 23rd.
+This is not a general election - a vote to Leave cannot be reversed in five years.
+
+If you're undecided, err on the side of caution. Use your vote wisely - **vote Remain** on June 23rd.
 
 ### References
 
@@ -196,4 +224,4 @@ This is not a general election - a vote to Leave cannot be reversed in five year
 
 [10] [http://www.bbc.co.uk/news/uk-northern-ireland-36510787](http://www.bbc.co.uk/news/uk-northern-ireland-36510787)
 
-[11][http://www.brusselstimes.com/opinion/2974/how-did-the-europe-construct-its-longest-peacetime-ever](http://www.brusselstimes.com/opinion/2974/how-did-the-europe-construct-its-longest-peacetime-ever)
+[11] [http://www.brusselstimes.com/opinion/2974/how-did-the-europe-construct-its-longest-peacetime-ever](http://www.brusselstimes.com/opinion/2974/how-did-the-europe-construct-its-longest-peacetime-ever)
