@@ -96,7 +96,7 @@ The UK should remain in the EU to influence and shape these migration challenges
 
 Capital been made with jingoistic Leave rhetoric of "Let's make Britain Great again" and "Let's take back control". Joe Public is now parroting back these lines in full throated rebukes on the evening news - but, what do they actually mean?
 
-<p class="post__note"><em>Note:</em> I wrote this draft at the start of this week before the heinous murder on Jo Cox by a delusional psychopath shouting "Britain first". Now, re-reading the paragraph above in the light of Thursday, it's hard not be angry about the irresponsibility of cultivating a climate where someone thought it was entirely justified to carry out such an act. Alex Massie wrote a very eloquent response to the attack in the Spectator - "<a href="http://blogs.spectator.co.uk/2016/06/a-day-of-infamy/">Sometimes, rhetoric has consequences.</a>"</p>
+<p class="post__note"><em>Note:</em> I wrote this draft at the start of this week before the heinous murder of Jo Cox by a delusional psychopath shouting "Britain first". Now, re-reading the paragraph above in the light of Thursday, it's hard not be angry about the irresponsibility of cultivating a climate where someone thought it was entirely justified to carry out such an act. Alex Massie wrote a very eloquent response to the attack in The Spectator - "<a href="http://blogs.spectator.co.uk/2016/06/a-day-of-infamy/">Sometimes, rhetoric has consequences.</a>"</p>
 
 After 40 years of unfettered access to the world's largest trading bloc, Britain is currently sitting as the fifth largest economy in the world. Crime is down. Unemployment is down. Household income up. Healthy life expectancy has soared. Air quality has vastly improved. Access to green and public spaces such as forestry has hugely increased.
 
@@ -163,6 +163,8 @@ While it's ridiculous to suggest that World War Three will break out anytime soo
 
 When we're living in a time where there is a surge from the far-right nationalism in France, Poland, Austria and Germany - surely it's too not too much of a stretch to point out that European unity can only reduce the risk of conflict in the future and countries breaking apart from the EU might increase the risk?
 
+On the international stage, every leader of note from the US to Australia to China and back to Canada thinks the prospect of Brexit is bonkers. There are three notable exceptions though - Marine Le Pen, Vladimir Putin  & Donald J. Trump. I'll leave that with you.
+
 Looking to Northern Ireland - again this is where NI is more vulnerable than the rest of the UK. One of the major tenets underpinning the Good Friday Agreement was that the UK & Ireland shared common membership of the EU which allowed the border to become invisible to the untrained eye.
 
 Theresa Villiers will tell you that Ireland the UK shared a common travel area long before the EU was formed and will do so again. What'll she'll fail to add is that Ireland and the UK joined the EU on the same day and therefore the Irish border has never been a land border of the EU - a crucial difference.
@@ -173,7 +175,7 @@ Our local pub is now the other side of that border. It now separates my parents 
 
 The Leave campaign is currently asserting that they'll take back control of UK borders and that there'll be no changes to the Irish border. They can't be right on both counts. In the case of Brexit increased border controls are an inevitability - it's not a case of If, but Where?
 
-The peace process has been lurching along in fits and starts for the best part of two decades but lets not forget it's only four years ago that changing the flag protocol at Belfast City Hall to reflect that of Buckingham Palace caused months of civil disobedience and street protests that continue weekly to this day. What happens when fences start to appear along the border again?
+The peace process has been lurching along in fits and starts for the best part of two decades and is lauded internationally as a genuine success story. However, lets not forget it's only four years ago that changing the flag protocol at Belfast City Hall to reflect that of Buckingham Palace caused months of civil disobedience and street protests that continue weekly to this day. In Northern Ireland, symbolism trumps pragmatism. What happens when fences start to appear along the border again?
 
 <blockquote>
 <p>"The fear in Dublin is that our border towns would become a backdoor into the UK. In that instance what sort of fortress would the Northern Ireland border have to become to close that backdoor?"</p>
