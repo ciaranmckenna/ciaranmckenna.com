@@ -742,13 +742,19 @@ a {
           box-sizing: border-box;
   border-bottom: 3px solid #fdfdfd;
   -webkit-transition: .75s all;
-  transition: .75s all; }
+  transition: .75s all;
+  overflow-wrap: break-word;
+  word-wrap: break-word; }
   a:hover {
     border-bottom: 3px solid #0892D0; }
 
 .container {
   max-width: 800px;
   margin: auto; }
+
+.twitter-tweet {
+  margin-bottom: 2rem !important;
+  width: 100% !important; }
 
 /**
  * Syntax highlighting styles

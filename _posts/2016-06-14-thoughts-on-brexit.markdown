@@ -96,7 +96,7 @@ The UK should remain in the EU to influence and shape these migration challenges
 
 Capital been made with jingoistic Leave rhetoric of "Let's make Britain Great again" and "Let's take back control". Joe Public is now parroting back these lines in full throated rebukes on the evening news - but, what do they actually mean?
 
-<p class="post__note"><em>Note:</em> I wrote this draft at the start of this week before the heinous murder of Jo Cox by a delusional psychopath shouting "Britain first". Now, re-reading the paragraph above in the light of Thursday, it's hard not be angry about the irresponsibility of cultivating a climate where someone thought it was entirely justified to carry out such an act. Alex Massie wrote a very eloquent response to the attack in The Spectator - "<a href="http://blogs.spectator.co.uk/2016/06/a-day-of-infamy/">Sometimes, rhetoric has consequences.</a>"</p>
+<p class="post__note"><em>Note:</em> I wrote this draft at the start of this week before the heinous murder of Jo Cox by a delusional psychopath shouting "Britain first". Now, re-reading the paragraph above, it's hard not feel angry about the irresponsibility of cultivating a climate where someone thought it was entirely justified to carry out such an act. Alex Massie wrote a very eloquent response to the attack in The Spectator - "<a href="http://blogs.spectator.co.uk/2016/06/a-day-of-infamy/">Sometimes, rhetoric has consequences.</a>"</p>
 
 After 40 years of unfettered access to the world's largest trading bloc, Britain is currently sitting as the fifth largest economy in the world. Crime is down. Unemployment is down. Household income up. Healthy life expectancy has soared. Air quality has vastly improved. Access to green and public spaces such as forestry has hugely increased.
 
@@ -130,6 +130,9 @@ The UK Treasury long-term economic analysis of a British exit from the EU arrive
 The CBI (Confederation of British Industry) says Brexit could "cost UK economy £100 billion and **cost 950,000 jobs by 2020**".
 
 I could go on.. there is no end of financial experts who predict, on a balance of probabilities, that Brexit will be detrimental.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">12 Nobel Prize winners and 150 economists warn Brexit &#39;likely lead to recession, job losses,<br>inflation, higher taxes &amp; cuts to services&quot; 1/2</p>&mdash; Jason Beattie (@JBeattieMirror) <a href="https://twitter.com/JBeattieMirror/status/744911322383527937">June 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The most common response from Leave I've heard to these stats is that they're "scare-mongering", however Leave has not been able to rebuke them with any robust figures.
 
