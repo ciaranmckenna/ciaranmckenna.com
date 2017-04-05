@@ -1,3 +1,7 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
 @charset "utf-8";
 
 // Our variables
@@ -31,22 +35,19 @@ $content-width:    800px;
     }
 }
 
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
 @import
-    // Utils
-    "utils/visually-hidden",
-    // Scaffolding
-    "milligram",
-    "base",
-    "layout",
-    "syntax-highlighting",
-    "header",
-    "footer",
-    // Components
-    "components/blockquote",
-    "components/entry-list",
-    "components/primary-nav",
-    "components/post"
+  // utils
+  "utils/visually-hidden",
+  // Scaffolding
+  "milligram",
+  "base",
+  "layout",
+  "syntax-highlighting",
+  "header",
+  "footer",
+  // Components
+  "components/blockquote",
+  "components/entry-list",
+  "components/primary-nav",
+  "components/post"
 ;

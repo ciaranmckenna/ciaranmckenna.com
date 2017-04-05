@@ -1,13 +1,15 @@
 # barrymcgee.co.uk
 
-This is the repo for my personal website. 
+This is the repo for my personal website.
 
 ## Getting started
 
-`npm i`
+You'll firstly need to install [Yarn](https://yarnpkg.com/lang/en/docs/install/). Once installed, drop into the root directory of this project and run:
 
-...will install all local dependencies. 
+`yarn`
 
-To fire up a local server while watching the site for changes just run;
+...which will install all local dependencies.
 
-`gulp`
+To fire up a local server while watching the site for changes, run;
+
+`yarn start`

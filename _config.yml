@@ -19,6 +19,11 @@ github_username:  barrymcgee
 # Build settings
 markdown: kramdown
 
+# Sass settings
+sass:
+  sass_dir: ./css
+  style: compressed
+
 # only build incrementally
 incremental: true
 
