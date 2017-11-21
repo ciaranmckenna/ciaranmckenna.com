@@ -8,7 +8,7 @@ categories: development
 
 I spent last weekend building and deploying this website - who says a cobbler can't have shiny new shoes?
 
-![Mssy trees](http://cdn.brymge.net/img/night-lights.jpg)
+![Mssy trees](/images/uploads/night-lights.jpg)
 
 I recently attended January's [Front End London](http://www.frontendlondon.co.uk) meetup and listened to <a href="https://calumryan.com">Calum Ryan</a> gave a great presentation about the [IndieWeb movement](https://indiewebcamp.com/).
 

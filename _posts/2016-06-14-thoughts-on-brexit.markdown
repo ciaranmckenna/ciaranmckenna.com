@@ -6,7 +6,7 @@ author: Barry McGee
 categories: politics
 ---
 
-<img class="post__image" src="http://cdn.brymge.net/img/euref/vote-690x450.png" alt="Brexit: Leave or Remain?" />
+<img class="post__image" src="/images/uploads/vote-690x450.png" alt="Brexit: Leave or Remain?" />
 
 <p class="post__intro">Growing up in Northern Ireland I was always taught that when in polite company, never discuss religion or politics as it’ll likely end in a blazing row.</p>
 
