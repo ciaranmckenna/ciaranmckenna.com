@@ -12,4 +12,4 @@ You'll firstly need to install [Yarn](https://yarnpkg.com/lang/en/docs/install/)
 
 To fire up a local server while watching the site for changes, run;
 
-`yarn start`
+`yarn serve`

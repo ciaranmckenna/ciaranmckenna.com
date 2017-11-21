@@ -42,7 +42,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.4.3)
-  rb-fsevent (<= 0.9.4)
 
 BUNDLED WITH
-   1.14.6
+   1.15.4
