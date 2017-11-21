@@ -40,28 +40,6 @@
   }
 }
 
-.next-up {
-  font-size: 16px;
-  display: block;
-  border: 1px solid $grey-color-dark;
-  padding: 1.5rem 1.5rem 1.2rem;
-  text-transform: uppercase;
-  widows: 100%;
-  text-align: center;
-  margin: 2rem 0 0;
-  border: 1px solid $green-color;
-
-  &, a {
-    color: $green-color;
-  }
-
-  @include mq($bp-small) {
-    width: auto;
-    float: right;
-    margin: 0;
-  }
-}
-
 // Grid override
 .row .column.column-75 {
   max-width: 100%!important;
