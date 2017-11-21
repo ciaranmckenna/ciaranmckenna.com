@@ -4,7 +4,8 @@
   "description": "Codebase for http://www.barrymcgee.co.uk",
   "main": "_site/index.html",
   "scripts": {
-    "start": "bundle exec jekyll serve",
+    "preserve": "bundle install",
+    "serve": "bundle exec jekyll serve",
     "build": "bundle exec jekyll build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "wipe": "rm -rf node_modules && rm -rf _site"
