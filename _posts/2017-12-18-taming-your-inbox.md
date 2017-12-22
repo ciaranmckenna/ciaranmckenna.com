@@ -10,11 +10,11 @@ _One of my goals for 2017 was to tame my box. I feel I've been reasonably succes
 
 ## Aggressively unsubscribe
 
-Almost every service you sign up to will ask for your email address to uniquely identify you as you. This also gives every service a convenient way of contacting you, which few fail to exploit. You should selectively choose the messages you want to receive on a daily or weekly basis. If it’s nothing something that interests, excites or informs you, you should unsubscribe from that service. You might be reluctant to do so as you think you might want to hear from that service in the future - you probably won't, unsubscribe. 
+Almost every service you sign up to will ask for your email address to uniquely identify you as you. This also gives every service a convenient way of contacting you, which few fail to exploit. You should selectively choose the messages you want to receive on a daily or weekly basis. If it’s not something that interests, excites or informs you, you should unsubscribe from that service. You might be reluctant to do so as you think you might want to hear from that service in the future - you probably won't, unsubscribe. 
 
 ## Filter where possible
 
-It may be possible you cannot unsubscribe to a particular service, either because that particular service is so unscrupulous or inept as to not provide an unsubscribe link or perhaps it’s an internal work tool that churns out reports or alerts deemed by someone somewhere to be so important that the entire company must receive them. In this case, you shook filter them at source - i.e. using Gmail or Hotmail or whoever is the provider of your email account. This is preferable to configuring rules on your email client as they are often dealt with before your email client can even retrieve them.
+It may be possible you cannot unsubscribe to a particular service, either because that particular service is so unscrupulous or inept as to not provide an unsubscribe link. Alternatively, it’s an internal work tool that churns out reports or alerts deemed by someone somewhere to be so important that the entire company must receive them. In this case, you should filter them at source - i.e. using Gmail or Hotmail or whoever is the provider of your email account. This is preferable to configuring rules on your email client as they are often dealt with before your email client can even retrieve them.
 
 ## Be careful who you email
 
@@ -36,10 +36,10 @@ If you can reply to an email in under two minutes, do it immediately. This will 
 
 Use a to-do list instead. When emails sit in your inbox, they are a reminder of all the things you have yet to do - which again is needless cognitive load. Separating your to-do list from all your other emails will also give added prominence to your to-do list. 
 
-## Use unroll.me
+## Practice 'Inbox Zero'  
 
-[Unroll.me](https://unroll.me/) is a monitoring service which will keep an eye on your inbox and email you monthly with a list of mailing lists you have been subscribed to. This was a real eye-opener for me for every report contains senders I don't recognise signing up to. However, you can quickly zoom down the list unsubscribing to anything you don't recognise - winner.
+You should aim to have dealt with all your emails at the end of each day by either deleting, archiving, moving out to your to-do or replying to each email. You will have to be disciplined to keep this up but it's only in very exceptional cases that an email can't be dealt with by one if the above.
 
-Don't be a hostage you email in 2018.
+Don't be a hostage your email in 2018.
 
 Edit: A previous version of this post recommended using [unroll.me](https://unroll.me/) to monitor your email subscriptions. Turns out they have some [rather dubious uses](http://gizmodo.com/how-did-unroll-me-get-users-to-allow-it-to-sell-their-i-1794603555) for your data so I've now removed that recommendation.
