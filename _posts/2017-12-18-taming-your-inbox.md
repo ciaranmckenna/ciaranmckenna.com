@@ -36,9 +36,9 @@ If you can reply to an email in under two minutes, do it immediately. This will 
 
 Use a to-do list instead. When emails sit in your inbox, they are a reminder of all the things you have yet to do - which again is needless cognitive load. Separating your to-do list from all your other emails will also give added prominence to your to-do list. 
 
-## Practice 'Inbox Zero'  
+## Practice 'Inbox Zero'
 
-You should aim to have dealt with all your emails at the end of each day by either deleting, archiving, moving out to your to-do or replying to each email. You will have to be disciplined to keep this up but it's only in very exceptional cases that an email can't be dealt with by one if the above.
+You should aim to have dealt with all your emails at the end of each day by either deleting, archiving, moving out to your to-do or replying to each email. You will have to be disciplined to keep this up but it's only in very exceptional cases that an email can't be dealt with by one of the above.
 
 Don't be a hostage your email in 2018.
 
