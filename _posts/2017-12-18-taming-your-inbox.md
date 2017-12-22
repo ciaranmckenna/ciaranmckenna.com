@@ -6,11 +6,7 @@ author: Barry McGee
 ---
 ![Computer user overwhelmed by email](/images/uploads/getty_83665737_80661.jpg)
 
-
-
 _One of my goals for 2017 was to tame my box. I feel I've been reasonably successful in doing so. Here are some pointers which helped me._
-
-
 
 ## Aggressively unsubscribe
 
@@ -42,6 +38,6 @@ Use a to-do list instead. When emails sit in your inbox, they are a reminder of 
 
 ## Use unroll.me
 
-[Unroll.me](https://unroll.me/) is a monitoring service which will keep an eye on your inbox and email you monthly with a list of mailing lists you have been subscribed to. This was a real eye-opener for me as many of them I regularly don't recognise. However, you can click zoom down the list unsubscribing to anything you don't recognise - winner.
+[Unroll.me](https://unroll.me/) is a monitoring service which will keep an eye on your inbox and email you monthly with a list of mailing lists you have been subscribed to. This was a real eye-opener for me as many of them I regularly don't recognise. However, you can quickly zoom down the list unsubscribing to anything you don't recognise - winner.
 
 Don't be a hostage you email in 2018.
