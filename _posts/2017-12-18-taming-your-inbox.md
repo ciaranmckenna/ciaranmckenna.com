@@ -36,8 +36,10 @@ If you can reply to an email in under two minutes, do it immediately. This will 
 
 Use a to-do list instead. When emails sit in your inbox, they are a reminder of all the things you have yet to do - which again is needless cognitive load. Separating your to-do list from all your other emails will also give added prominence to your to-do list. 
 
-## Practice 'Inbox Zero'
+## Use unroll.me
 
-You should aim to have dealt with all your emails at the end of each day by either deleting, archiving, moving out to your to-do or replying to each email. You will have to be disciplined to keep this up but it's only in very exceptional cases that an email can't be dealt with by one if the above.
+[Unroll.me](https://unroll.me/) is a monitoring service which will keep an eye on your inbox and email you monthly with a list of mailing lists you have been subscribed to. This was a real eye-opener for me for every report contains senders I don't recognise signing up to. However, you can quickly zoom down the list unsubscribing to anything you don't recognise - winner.
 
 Don't be a hostage you email in 2018.
+
+Edit: A previous version of this post recommended using [unroll.me](https://unroll.me/) to monitor your email subscriptions. Turns out they have some [rather dubious uses](http://gizmodo.com/how-did-unroll-me-get-users-to-allow-it-to-sell-their-i-1794603555) for your data so I've now removed that recommendation.
