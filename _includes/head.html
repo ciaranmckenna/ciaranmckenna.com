@@ -7,11 +7,31 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{% if page.desc %}{{ page.desc | strip_html | strip_newlines | truncate: 160 }}{% endif %}{% endif %}">
 
   <!-- Google Fonts -->
-  <link href='https://fonts.googleapis.com/css?family=Josefin+Sans:300' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300" rel="stylesheet" type="text/css">
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <!-- Google / Search Engine Tags -->
+  <meta itemprop="name" content="Barry McGee">
+  <meta itemprop="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{% if page.desc %}{{ page.desc | strip_html | strip_newlines | truncate: 160 }}{% endif %}{% endif %}">
+  <meta itemprop="image" content="https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAzwAAAAJGQwYmQxNjE1LTg5NDAtNDYyMy1iNjQwLTVmNjBkNTkzNDU1Nw.jpg">
+
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="https://www.barrymcgee.co.uk">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Barry McGee">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{% if page.desc %}{{ page.desc | strip_html | strip_newlines | truncate: 160 }}{% endif %}{% endif %}">
+  <meta property="og:image" content="https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAzwAAAAJGQwYmQxNjE1LTg5NDAtNDYyMy1iNjQwLTVmNjBkNTkzNDU1Nw.jpg">
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Barry McGee">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{% if page.desc %}{{ page.desc | strip_html | strip_newlines | truncate: 160 }}{% endif %}{% endif %}">
+  <meta name="twitter:image" content="https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAzwAAAAJGQwYmQxNjE1LTg5NDAtNDYyMy1iNjQwLTVmNjBkNTkzNDU1Nw.jpg">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300' rel='stylesheet' type='text/css">
+  <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
