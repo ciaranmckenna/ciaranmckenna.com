@@ -7,6 +7,14 @@ publish_mode: editorial_workflow
 media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
 
 collections:
+  - name: authors
+    label: Authors
+    folder: "authors"
+    create: true
+    fields:
+      - {name: name, label: Name}
+      - {name: twitterHandle, label: "Twitter Handle"}
+      - {name: bio, label: Bio, widget: text}
   - name: "notes" # Used in routes, e.g., /admin/collections/blog
     label: "Notes" # Used in the UI
     folder: "_posts/" # The path to the folder where the documents are stored
@@ -16,5 +24,11 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Author", name: "author", widget: "string"}
+      - name: author
+        label: Author
+        widget: relation
+        collection: authors
+        searchFields: [name, twitterHandle]
+        valueField: name
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "categories", name: "categories", widget: "select"}
