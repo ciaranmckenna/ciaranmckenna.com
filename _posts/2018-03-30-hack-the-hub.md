@@ -4,7 +4,7 @@ title: Hack The Hub 2018
 date: 2018-03-30T11:17:00.062Z
 author: Barry McGee
 categories: development
-excerpt: I spent last weekend at [Hack the Hub](https://www.hackthehub2018.com/), a Machine Learning (ML) Hackathon in Belfast.
+excerpt: I spent last weekend at Hack the Hub, a Machine Learning (ML) Hackathon in Belfast.
 image: https://www.barrymcgee.co.uk/images/uploads/hackthehub-hero.jpg
 ---
 I spent last weekend at [Hack the Hub](https://www.hackthehub2018.com/), a Machine Learning (ML) Hackathon in Belfast.
