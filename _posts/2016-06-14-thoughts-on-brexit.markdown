@@ -4,11 +4,11 @@ title:  "Thoughts on Brexit"
 date:   2016-06-14 16:54:19 +0000
 author: Barry McGee
 categories: politics
+image: https://www.barrymcgee.co.uk/images/uploads/vote-690x450.png
 ---
+<p>Growing up in Northern Ireland I was always taught that when in polite company, never discuss religion or politics as it’ll likely end in a blazing row.</p>
 
 <img class="post__image" src="/images/uploads/vote-690x450.png" alt="Brexit: Leave or Remain?" />
-
-<p class="post__intro">Growing up in Northern Ireland I was always taught that when in polite company, never discuss religion or politics as it’ll likely end in a blazing row.</p>
 
 However, as the date of the EU referendum draws ever closer, I’m finding myself increasingly frustrated with the narrative of public debate and the number of wild assertions that are seemingly allowed to go unchallenged.
 

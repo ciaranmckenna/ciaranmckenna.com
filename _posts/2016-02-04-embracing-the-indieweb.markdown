@@ -4,6 +4,7 @@ title:  "Embracing the IndieWeb"
 date:   2016-02-11 00:20:19 +0000
 author: Barry McGee
 categories: development
+image: https://www.barrymcgee.co.uk/images/uploads/night-lights.jpg
 ---
 
 I spent last weekend building and deploying this website - who says a cobbler can't have shiny new shoes?

@@ -4,6 +4,7 @@ title:  "Re: The Elephant In the Room"
 date:   2016-02-26 21:28:19 +0000
 author: Barry McGee
 categories: development
+image: https://www.barrymcgee.co.uk/images/uploads/vote-690x450.png
 ---
 
 [Sarah Parameter](http://www.sazzy.co.uk) recently penned a blog post asking if work was drying up for freelancers working in the web industry.

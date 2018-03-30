@@ -3,10 +3,13 @@ layout: post
 title: Hack The Hub 2018
 date: 2018-03-30T11:17:00.062Z
 author: Barry McGee
+categories: development
+excerpt: I spent last weekend at [Hack the Hub](https://www.hackthehub2018.com/), a Machine Learning (ML) Hackathon in Belfast.
+image: https://www.barrymcgee.co.uk/images/uploads/hackthehub-hero.jpg
 ---
-![Computer user overwhelmed by email](/images/uploads/hackthehub-hero.jpg)
+I spent last weekend at [Hack the Hub](https://www.hackthehub2018.com/), a Machine Learning (ML) Hackathon in Belfast.
 
-_I spent last weekend at [Hack the Hub](https://www.hackthehub2018.com/), a Machine Learning (ML) Hackathon in Belfast._
+![Computer user overwhelmed by email](/images/uploads/hackthehub-hero.jpg)
 
 It was held in the cavernous S13 space, a former B&Q warehouse on the Boucher Road. While this meant we had acres of spaces to roam freely, the challenge of heating a room the size of an aircraft hangar meant the few small gas heaters provided struggled to make their presence felt.
 
@@ -88,7 +91,7 @@ By now, it was the end of day one and I only had a couple of hours of coding lef
 
 In hindsight, I should have reached out to the wider hackathon via the Slack group to see if anyone would be willing to lend a hand but looking around, everyone seemed very busy with their own projects.
 
-This is probably my biggest takeaway for future hackathons - reach out for help beyond your own team, even from other teams.
+> This is probably my biggest takeaway for future hackathons - reach out for help beyond your own team, even from other teams.
 
 So, mindful of time, I scaled back our scope and used the confidence rating of the Computer Vision API alone to generate a star rating. The confidence percentage returned with each image could be divided by twenty and rounded up/down to provide a rudimentary rating.
 
@@ -100,6 +103,8 @@ Many congratulations to #deepducks [who took the top prize](https://medium.com/h
 
 It was a super fun weekend - thank you to all the organised and sponsors who put on a great event, provided food, coffee and beer while not a single dime was asked of the participants. 👏🏻
 
-You can have a play yourself with our final app here: [https://hackthehub-cec6b.firebaseapp.com/](https://hackthehub-cec6b.firebaseapp.com/)
+You can have a play yourself with our final app. Paste any in image URL and watch the wonder of ML describe your image back to you! 💥
+
+[https://hackthehub-cec6b.firebaseapp.com/](https://hackthehub-cec6b.firebaseapp.com/)
 
 Also, if you're so inclined: [View the (hacky) source code](https://github.com/barrymcgee/hackthehub)

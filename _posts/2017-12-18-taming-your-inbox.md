@@ -3,14 +3,18 @@ layout: post
 title: Taming your inbox
 date: 2017-12-18T10:14:29.062Z
 author: Barry McGee
+categories: development
+excerpt: One of my goals for 2017 was to tame my box. I feel I've been reasonably successful in doing so. Here are some pointers which helped me.
+image: https://www.barrymcgee.co.uk/images/uploads/getty_83665737_80661.jpg
 ---
-![Computer user overwhelmed by email](/images/uploads/getty_83665737_80661.jpg)
 
-_One of my goals for 2017 was to tame my box. I feel I've been reasonably successful in doing so. Here are some pointers which helped me._
+One of my goals for 2017 was to tame my box. I feel I've been reasonably successful in doing so. Here are some pointers which helped me.
+
+![Computer user overwhelmed by email](/images/uploads/getty_83665737_80661.jpg)
 
 ## Aggressively unsubscribe
 
-Almost every service you sign up to will ask for your email address to uniquely identify you as you. This also gives every service a convenient way of contacting you, which few fail to exploit. You should selectively choose the messages you want to receive on a daily or weekly basis. If it’s not something that interests, excites or informs you, you should unsubscribe from that service. You might be reluctant to do so as you think you might want to hear from that service in the future - you probably won't, unsubscribe. 
+Almost every service you sign up to will ask for your email address to uniquely identify you as you. This also gives every service a convenient way of contacting you, which few fail to exploit. You should selectively choose the messages you want to receive on a daily or weekly basis. If it’s not something that interests, excites or informs you, you should unsubscribe from that service. You might be reluctant to do so as you think you might want to hear from that service in the future - you probably won't, unsubscribe.
 
 ## Filter where possible
 
@@ -34,7 +38,7 @@ If you can reply to an email in under two minutes, do it immediately. This will 
 
 ## Don't use your inbox as a to-do list
 
-Use a to-do list instead. When emails sit in your inbox, they are a reminder of all the things you have yet to do - which again is needless cognitive load. Separating your to-do list from all your other emails will also give added prominence to your to-do list. 
+Use a to-do list instead. When emails sit in your inbox, they are a reminder of all the things you have yet to do - which again is needless cognitive load. Separating your to-do list from all your other emails will also give added prominence to your to-do list.
 
 ## Practice 'Inbox Zero'
 
