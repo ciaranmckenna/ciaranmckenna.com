@@ -1,5 +1,4 @@
 .post {
-
   &__meta {
     color: $grey-color;
   }
@@ -15,8 +14,10 @@
     margin: 2rem 0 3rem;
   }
 
-  &__image {
+  &__image,
+  img {
     width: 100%;
+    margin: 2rem 0;
   }
 
   &__media {
@@ -24,8 +25,7 @@
     @extend .clearfix;
   }
 
-  @media screen and (min-width:740px){
-
+  @media screen and (min-width: 740px) {
     &__media-col {
       display: block;
       width: 50%;
@@ -37,9 +37,9 @@
     }
   }
 
-
-
-  h2, h3, h4 {
+  h2,
+  h3,
+  h4 {
     margin: 3rem 0 2rem;
   }
 
@@ -50,13 +50,12 @@
   }
 
   &__content {
-
     img {
-      margin: $spacing-unit 0 $spacing-unit*2;
+      margin: $spacing-unit 0 $spacing-unit * 2;
     }
 
     p:first-child {
-      font-size: $spacing-unit*1.5;
+      font-size: $spacing-unit * 1.5;
       font-style: italic;
     }
   }
