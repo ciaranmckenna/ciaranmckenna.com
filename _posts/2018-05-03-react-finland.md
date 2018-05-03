@@ -1,7 +1,7 @@
 ---
 layout: post
 title: React Finland 2018
-date: 2018-03-30T11:17:00.062Z
+date: 2018-05-03T19:17:00.062Z
 author: Barry McGee
 categories: development
 excerpt: I spent an enjoyable couple of days last week attending the inaugural React Finland conference in Helsinki.
