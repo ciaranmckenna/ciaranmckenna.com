@@ -42,7 +42,7 @@ Getting over that, Ken Wheeler kicked off day two with an irreverent and energet
 
 ![Credit: Jörge Ojanen - @mieshukka](/images/uploads/helsinki-ken.jpg)
 
-Ken also touched on a theme which ran through many of the talks in one way or another which is that we should address the lack of strict type in JS by using Flow, Typekit or some other variation. Ken finished by introducing Reason, a new syntax for the OCaml language that is meant to be welcoming to JavaScript developers. Reason has been created by the same person that originally created React, Jordan Walke, so is therefore one to watch.
+Ken also touched on a theme which ran through many of the talks in one way or another which is that we should address the lack of strict type in JS by using Flow, Typescript or some other variation. Ken finished by introducing Reason, a new strictly typed syntax for the OCaml language that is meant to be welcoming to JavaScript developers. Reason has been created by the same person that originally created React, Jordan Walke, so is therefore one to watch.
 
 Other highlights of day two for me included;
 
