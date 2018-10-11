@@ -25,6 +25,6 @@
   },
   "homepage": "https://www.barrymcgee.co.uk",
   "dependencies": {
-    "npm": "^3.5.3"
+    "npm": "^3.10.10"
   }
 }
