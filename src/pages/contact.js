@@ -8,7 +8,7 @@ const Contact = () => (
     <SEO title="Contact" />
     <h1>Hello.</h1>
     <p>Send me a message using the form below and I'll get back to you asap.</p>
-    <form name="contact" method="POST" data-netlify="true" action="/success">
+    <form name="Contact" method="POST" data-netlify="true" action="/success">
       <p>
         <label>
           Your name: <input type="text" name="name" required />
@@ -24,7 +24,6 @@ const Contact = () => (
           Your message: <textarea name="message" required />
         </label>
       </p>
-      <div data-netlify-recaptcha="true" />
       <p>
         <button type="submit">Send message</button>
       </p>
