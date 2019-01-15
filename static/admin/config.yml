@@ -1,0 +1,43 @@
+backend:
+  name: github
+  branch: master
+  repo: barrymcgee/barrymcgee.co.uk
+  squash_merges: true
+
+media_folder: static/images
+public_folder: /images
+
+collections:
+  - name: 'notes'
+    label: 'Notes'
+    folder: 'src/notes'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Slug', name: 'slug', widget: 'string', default: { { slug } } }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Leading opener', name: 'opener', widget: 'string' }
+      - {
+          label: 'Featured Image',
+          name: 'featured',
+          widget: 'image',
+          required: false,
+        }
+      - {
+          label: 'Category',
+          name: 'category',
+          widget: 'select',
+          multiple: true,
+          options:
+            [
+              'development',
+              'politics',
+              'productivity',
+              'photography',
+              'life',
+              'cycling',
+              'technology',
+            ],
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
