@@ -8,7 +8,13 @@ const Contact = () => (
     <SEO title="Contact" />
     <h1>Hello.</h1>
     <p>Send me a message using the form below and I'll get back to you asap.</p>
-    <form name="Contact" method="POST" data-netlify="true" action="/success">
+    <form
+      name="Contact"
+      method="POST"
+      data-netlify="true"
+      action="/success"
+      netlify-honeypot="bot-field"
+    >
       <p>
         <label>
           Your name: <input type="text" name="name" required />
@@ -22,6 +28,11 @@ const Contact = () => (
       <p>
         <label>
           Your message: <textarea name="message" required />
+        </label>
+      </p>
+      <p style={{ display: 'none' }}>
+        <label>
+          Don’t fill this out if you're human: <input name="bot-field" />
         </label>
       </p>
       <p>
