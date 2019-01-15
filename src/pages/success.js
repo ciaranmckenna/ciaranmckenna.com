@@ -6,7 +6,12 @@ import SEO from '../components/seo';
 const Success = () => (
   <Layout>
     <SEO title="Contact - Success!" />
-    <h1>Success! 👌🏻</h1>
+    <h1>
+      Success!{' '}
+      <span role="img" aria-label="Perfect">
+        👌🏻
+      </span>
+    </h1>
     <p>Thank you for the message - I'll be in touch soon.</p>
   </Layout>
 );
