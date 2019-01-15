@@ -1,16 +1,15 @@
 ---
-title: 'Embracing the IndieWeb'
+title: Embracing the IndieWeb
+slug: embracing-the-indieweb
 date: '2016-02-11'
-author: 'Barry McGee'
-categories: 'development'
-slug: 'embracing-the-indieweb'
+opener: >-
+  I spent last weekend building and deploying this website - who says a cobbler
+  can't have shiny new shoes?
+featured: /images/night-lights.png
+category:
+  - development
 ---
-
-I spent last weekend building and deploying this website - who says a cobbler can't have shiny new shoes?
-
-![Night lights](/images/night-lights.png)
-
-I recently attended January's [Front End London](http://www.frontendlondon.co.uk) meetup and listened to <a href="https://calumryan.com">Calum Ryan</a> gave a great presentation about the [IndieWeb movement](https://indiewebcamp.com/).
+I recently attended January's [Front End London](http://www.frontendlondon.co.uk) meetup and listened to [Calum Ryan](https://calumryan.com) gave a great presentation about the [IndieWeb movement](https://indiewebcamp.com/).
 
 What is the IndieWeb? According to their site they are;
 
