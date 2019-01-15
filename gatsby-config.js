@@ -3,7 +3,7 @@ module.exports = {
     title: `Barry McGee`,
     description: `Infrequent blog of Barry McGee - a software developer base in Belfast, N. Ireland on technology, politics & life generally.`,
     author: `@barrymcgee`,
-    siteUrl: `https://batsby.netlify.com`,
+    siteUrl: `https://www.barrymcgee.co.uk`,
   },
   plugins: [
     `gatsby-transformer-sharp`,
