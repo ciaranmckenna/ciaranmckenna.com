@@ -9,7 +9,6 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-sharp`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-netlify`,
     `gatsby-plugin-netlify-cms`,
@@ -59,13 +58,14 @@ module.exports = {
             options: { figureClassName: 'md-figure' },
           },
           {
-            resolve: 'gatsby-remark-images',
+            resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 648,
+              withWebp: true,
             },
           },
           {
-            resolve: 'gatsby-remark-embed-gist',
+            resolve: `gatsby-remark-embed-gist`,
             options: {
               username: 'barrymcgee',
             },
