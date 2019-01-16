@@ -3,6 +3,7 @@ backend:
   branch: master
   repo: barrymcgee/barrymcgee.co.uk
   squash_merges: true
+  publish_mode: editorial_workflow
 
 media_folder: static/images
 public_folder: /images
