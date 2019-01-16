@@ -15,6 +15,10 @@ const Main = styled.main`
   min-height: calc(100vh - 375px);
   max-width: 648px;
   margin: auto;
+
+  @media (min-width: 680px) {
+    padding: 0 0 1rem;
+  }
 `;
 
 const Layout = ({ children }) => (
