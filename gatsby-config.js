@@ -43,32 +43,6 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-transformer-remark',
-      options: {
-        plugins: [
-          {
-            resolve: 'gatsby-remark-images',
-            options: {
-              maxWidth: 648,
-            },
-          },
-        ],
-      },
-    },
-    {
-      resolve: 'gatsby-transformer-remark',
-      options: {
-        plugins: [
-          {
-            resolve: 'gatsby-remark-embed-gist',
-            options: {
-              username: 'barrymcgee',
-            },
-          },
-        ],
-      },
-    },
-    {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
@@ -83,6 +57,18 @@ module.exports = {
           {
             resolve: `gatsby-remark-figure-caption`,
             options: { figureClassName: 'md-figure' },
+          },
+          {
+            resolve: 'gatsby-remark-images',
+            options: {
+              maxWidth: 648,
+            },
+          },
+          {
+            resolve: 'gatsby-remark-embed-gist',
+            options: {
+              username: 'barrymcgee',
+            },
           },
         ],
       },
