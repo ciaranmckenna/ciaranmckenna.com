@@ -6,11 +6,12 @@ opener: >-
   I spent last weekend at Hack the Hub, a Machine Learning (ML) Hackathon in
   Belfast.
 featured: /images/hackthehub-hero.jpg
+category:
+  - development
 ---
-
 It was held in the cavernous S13 space, a former B&Q warehouse on the Boucher Road. While this meant we had acres of spaces to roam freely, the challenge of heating a room the size of an aircraft hangar meant the few small gas heaters provided struggled to make their presence felt.
 
-![All hail the heater](/images/heater.jpg)
+![All hail the heater](/images/heater.jpg "Blow heater")
 
 However, we're not unfamiliar with the cold in Belfast and stoically soldiered on.
 
@@ -20,7 +21,7 @@ I didn't know anyone else attending so I was assigned a random group to work wit
 
 The day started with the organisers and sponsors outlined some pre-defined challenges. Teams were also free to chart their own path along the theme of machine learning if they so wished.
 
-![The cavernous S13 space](/images/s13.jpg)
+![The cavernous S13 space](/images/s13.jpg "The cavernous S13 space")
 
 We decided to tackle a challenge set by one of the sponsors, [Bazaarvoice](https://www.bazaarvoice.com/uk/) - ratings and review SaaS provider with a recent outpost based in Belfast. The [challenge](https://docs.google.com/presentation/d/1in6jmyABLETLHJdwsWSpQ1WA0o5F_Cvxtydpzp6D0xw/edit#slide=id.p26) was to use machine learning to help with the moderation of images. We were provided with a sample dataset of roughly 1000 images already rated 1-5 stars.
 
@@ -36,7 +37,7 @@ At this stage, we then sketched out how we might architect an app to utilise thi
 
 Off my back-of-an-envelope scrawl, Stephen made a presentable system overview:
 
-![All hail the heater](/images/flow-chart.png)
+![Data flow app visualised](/images/flow-chart.png "Data flow app visualised")
 
 Looking again to Javascript, I found [Brain.js](https://github.com/BrainJS) - a library of Neural Networks written in JavaScript. This looked promising. A little digging later, I found this fantastic tutorial on how to train your own neural network to [detect if a tweet is by Donald Trump or Kim Kardashian](https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3).
 
