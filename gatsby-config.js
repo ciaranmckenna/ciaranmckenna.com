@@ -1,3 +1,10 @@
+var netlifyCmsPaths = {
+  resolve: `gatsby-plugin-netlify-cms-paths`,
+  options: {
+    cmsConfig: `/static/admin/config.yml`,
+  },
+};
+
 module.exports = {
   siteMetadata: {
     title: `Barry McGee`,
@@ -16,6 +23,7 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-plugin-twitter`,
     `gatsby-plugin-sharp`,
+    netlifyCmsPaths,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -54,6 +62,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          netlifyCmsPaths,
           {
             resolve: `gatsby-remark-figure-caption`,
             options: { figureClassName: 'md-figure' },
@@ -62,7 +71,7 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 648,
-              withWebp: true,
+              backgroundColor: 'transparent',
             },
           },
           {
