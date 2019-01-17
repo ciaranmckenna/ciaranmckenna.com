@@ -9,7 +9,7 @@ featured: /images/dws9chxxgaefsde.jpeg
 category:
   - productivity
 ---
-I was reasonably successful at my new year resolutions in 2018 so I'm giving new year resolutions another bash in 2019.
+I was reasonably successful at my new year resolutions in 2018 so, I'm giving new year resolutions another bash in 2019.
 
 First up, I want to write more. My previous approach to blogging has been to think of an idea to blog, note that down in Evernote then never get back to writing the post. I've been thinking about why this is and identified two main blockers.
 
@@ -18,7 +18,7 @@ First up, I want to write more. My previous approach to blogging has been to thi
 
 To resolve the first problem, I've completely re-written this blog in Gatsby, using Netlify CMS. This now means I can churn out a new blog post in minutes.
 
-Secondly, I've changed how I think about blog posts on this site. I've named this section 'Notes' purposefully as I want to post here instead of Evernote. Posts might be fully formed or they might only be a couple of sentences long. I frequently use Twitter to post threads of information that could easily be shared here instead. 
+Secondly, I've changed how I think about blog posts on this site. I've named this section 'Notes' purposefully as I want to post here instead of Evernote. Posts might be fully formed, or they might only be a couple of sentences long. I frequently use Twitter to post threads of information that could easily be shared here instead. 
 
 To ensure this resolution is measurable, I'm going to aim for 20 blog posts this year.
 
