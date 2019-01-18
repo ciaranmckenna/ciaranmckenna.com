@@ -3,7 +3,7 @@ title: 'New year, new blog... again.'
 slug: new-year-new-blog-again
 date: 2019-01-15T23:52:08.789Z
 opener: >-
-  Not for the first, I'm rebooting my blog. This time though, it'll be
+  Not for the first time, I'm rebooting my blog. This time though, it'll be
   different.
 featured: /images/dws9chxxgaefsde.jpeg
 category:
