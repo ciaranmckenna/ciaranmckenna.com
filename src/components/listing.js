@@ -20,26 +20,6 @@ const Article = styled.article`
   }
 `;
 
-const LISTING_QUERY = graphql`
-  query BlogPostListing {
-    allMarkdownRemark(
-      limit: 10
-      sort: { order: DESC, fields: [frontmatter___date] }
-    ) {
-      edges {
-        node {
-          excerpt
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            title
-            slug
-          }
-        }
-      }
-    }
-  }
-`;
-
 const Listing = () => (
   <StaticQuery
     query={LISTING_QUERY}
@@ -60,3 +40,23 @@ const Listing = () => (
 );
 
 export default Listing;
+
+const LISTING_QUERY = graphql`
+  query BlogPostListing {
+    allMarkdownRemark(
+      limit: 10
+      sort: { order: DESC, fields: [frontmatter___date] }
+    ) {
+      edges {
+        node {
+          excerpt
+          frontmatter {
+            date(formatString: "MMMM DD, YYYY")
+            title
+            slug
+          }
+        }
+      }
+    }
+  }
+`;
