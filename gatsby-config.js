@@ -16,6 +16,7 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-plugin-twitter`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-purgecss`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
