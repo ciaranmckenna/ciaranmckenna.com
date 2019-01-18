@@ -6,17 +6,22 @@ module.exports = {
     siteUrl: `https://www.barrymcgee.co.uk`,
   },
   plugins: [
-    `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
-    `gatsby-plugin-netlify`,
-    `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-twitter`,
     `gatsby-plugin-sharp`,
-    `gatsby-plugin-purgecss`,
+    `gatsby-transformer-sharp`,
+    {
+      // keep as first gatsby-source-filesystem plugin for gatsby image support
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/static/images`,
+        name: 'uploads',
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -56,6 +61,12 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: 'gatsby-remark-relative-images',
+            options: {
+              name: 'uploads',
+            },
+          },
+          {
             resolve: `gatsby-remark-figure-caption`,
             options: { figureClassName: 'md-figure' },
           },
@@ -64,6 +75,12 @@ module.exports = {
             options: {
               maxWidth: 648,
               backgroundColor: 'transparent',
+            },
+          },
+          {
+            resolve: 'gatsby-remark-copy-linked-files',
+            options: {
+              destinationDir: 'static',
             },
           },
           {
@@ -84,5 +101,8 @@ module.exports = {
         showSpinner: false,
       },
     },
+    `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-purgecss`, // must be after other CSS plugins
+    `gatsby-plugin-netlify`, // make sure to keep it last in the array
   ],
 };
