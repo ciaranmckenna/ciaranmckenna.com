@@ -52,7 +52,11 @@ export default class postLayout extends Component {
 
     return (
       <Layout location={location}>
-        <SEO title={markdownRemark.frontmatter.title} />
+        <SEO
+          title={markdownRemark.frontmatter.title}
+          description={markdownRemark.frontmatter.opener}
+          image={markdownRemark.frontmatter.featured}
+        />
         <PostHeading>{markdownRemark.frontmatter.title}</PostHeading>
         <PostMetaData>
           <time dateTime={markdownRemark.frontmatter.date}>
