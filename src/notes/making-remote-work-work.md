@@ -4,7 +4,7 @@ slug: making-remote-work
 date: 2019-01-16T14:57:25.592Z
 opener: >-
   I recently gave a lightning talk at BelfastJS on how I make working remotely,
-  work for me. Here, I expand on some of the themes of that talk.
+  work for me. Here, I expand on some of those themes.
 featured: /images/screenshot-2019-01-19-at-14.11.06.png
 category:
   - productivity
@@ -84,4 +84,6 @@ No matter how deep you are in a tunnel of code, a young pup will let you know he
 
 When you're not visibly in an office every day you need to find other ways to make yourself visible. you may even need to over-compensate a little bit. This may be daily status reports, piping up a bit more in team chat channels or taking on tasks not strictly in your remit but help remind others of your value to the team. Helping to clear a backlog of Pull Requests is a good example of this. You should also be mindful that if you're deep in the trenches of the particular task and but making any visible progress to your wider team, you should flag that up. You know you're working hard and making incremental progress but no-one else does unless you tell them.
 
-In conclusion - trust, discipline and communication are key to making remote work, work in my opinion. and once you get it right, it's magic. 👌🏻
+## In conclusion
+
+Trust, discipline and communication are key to making remote work, work in my opinion. But, once you get it right, it's magic. 👌🏻
