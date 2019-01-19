@@ -9,7 +9,6 @@ module.exports = {
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
-    `gatsby-plugin-offline`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-twitter`,
     `gatsby-plugin-sharp`,
@@ -36,18 +35,18 @@ module.exports = {
         path: `${__dirname}/src/notes`,
       },
     },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Barry McGee`,
-        short_name: `barrymcgee`,
-        start_url: `/`,
-        background_color: `#981ceb`,
-        theme_color: `#981ceb`,
-        display: `minimal-ui`,
-        icon: `src/images/avatar.jpg`, // This path is relative to the root of the site.
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-manifest`,
+    //   options: {
+    //     name: `Barry McGee`,
+    //     short_name: `barrymcgee`,
+    //     start_url: `/`,
+    //     background_color: `#981ceb`,
+    //     theme_color: `#981ceb`,
+    //     display: `minimal-ui`,
+    //     icon: `src/images/avatar.jpg`, // This path is relative to the root of the site.
+    //   },
+    // },
     {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
@@ -104,5 +103,6 @@ module.exports = {
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-purgecss`, // must be after other CSS plugins
     `gatsby-plugin-netlify`, // make sure to keep it last in the array
+    `gatsby-plugin-remove-serviceworker`,
   ],
 };
