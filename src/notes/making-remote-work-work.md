@@ -3,9 +3,9 @@ title: 'Making remote work, work.'
 slug: making-remote-work
 date: 2019-01-16T14:57:25.592Z
 opener: >-
-  I recently gave a talk at BelfastJS on how I make working remotely, work for
-  me.
-featured: /images/screenshot-2019-01-19-at-13.52.39.png
+  I recently gave a lightning talk at BelfastJS on how I make working remotely,
+  work for me. Here, I expand on some of the themes of that talk.
+featured: /images/screenshot-2019-01-19-at-14.11.06.png
 category:
   - productivity
 ---
@@ -31,6 +31,8 @@ Problems will inevitably arise if you start to fall short without a good explana
 
 ## Create your ideal workspace
 
+![My home office](/images/screenshot-2019-01-19-at-13.52.39.png "My home office")
+
 A considerable advantage remote workers have over our office-dwelling colleagues is the ability to control our work environment. 
 
 I have a home office which I've gradually crafted to suit my needs perfectly. 
@@ -50,7 +52,7 @@ In the physical environment, if, for example, you have other family members at h
 Virtually, certain tools and techniques to help this. Some steps I have taken include;
 
 * Disabling the red notification indicator on all chat icons 
-* I've installed a Gmail app called [Adios](https://adios.ai/) which will hold back my emails and only deliver them in batches, three times a day. 9am, 1pm and 5pm.
+* I've installed a Gmail app called [Adios](https://adios.ai/) which will hold back my emails and only deliver them in batches, three times a day - 9am, 1pm and 5pm.
 * Turning the sound and vibration on my phone off and placing it face down on the desk.
 * Disabling the majority of my iPhone apps from pushing notifications.
 * Muting all Whatsapp groups for 1 year
@@ -66,12 +68,20 @@ This will not only give you a strong indicator of when to start working and also
 
 ## Exercise
 
-One of the more dismaying aspects of working from home is the realisation of little you move in the course of the day when your desk is mere metres from your bed. 
+One of the more dismaying aspects of working from home is the realisation of how little you move in the course of the day when your desk is mere metres from your bed. 
 
 When I was previously commuting to the office while living in London, I was regularly clocking up about 12,000 steps a day. 
 
 However, once I moved back to Belfast and started working from home, that plummeted to about 3000 steps a day. It's therefore very important to inject some regular exercise into your day. 
 
-One thing I've found that has really helped to regularly get me out and about, and which was only really possible because I now work from home, is acquiring a canine companion.
+One thing I've found that has really helped to regularly get me out and about, and which was only really possible because I now work from home, is acquiring a canine companion - in my case, Murphy, an energetic cocker spaniel.
 
-No matter how deep you are in a tunnel of code, a young pup will let you know he has needs too and a brisk walk in fresh air is infinitely preferable to mopping up a mess on the kitchen floor.
+![Murphy, magnificent on a round bale](/images/screenshot-2019-01-19-at-14.04.54.png "Murphy, magnificent on a round bale")
+
+No matter how deep you are in a tunnel of code, a young pup will let you know he has needs too and a brisk walk in fresh air is infinitely preferable to mopping up a mess on the kitchen floor. 😫
+
+## Communication
+
+When you're not visibly in an office every day you need to find other ways to make yourself visible. you may even need to over-compensate a little bit. This may be daily status reports, piping up a bit more in team chat channels or taking on tasks not strictly in your remit but help remind others of your value to the team. Helping to clear a backlog of Pull Requests is a good example of this. You should also be mindful that if you're deep in the trenches of the particular task and but making any visible progress to your wider team, you should flag that up. You know you're working hard and making incremental progress but no-one else does unless you tell them.
+
+In conclusion - trust, discipline and communication are key to making remote work, work in my opinion. and once you get it right, it's magic. 👌🏻
