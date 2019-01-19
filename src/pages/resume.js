@@ -39,7 +39,7 @@ const ResumeWrap = styled.div`
 
 const Resume = () => (
   <Layout>
-    <SEO title="Experience" />
+    <SEO title="Curriculum Vitae" />
     <h1>Curriculum Vitae</h1>
     <ResumeWrap>
       <section className="entry-list__item row">
