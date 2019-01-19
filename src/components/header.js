@@ -54,8 +54,11 @@ const Header = ({ siteTitle }) => (
     <div>
       <h1>{siteTitle}</h1>
       <h4>
-        I'm a Software Engineer based in Belfast, N. Ireland. This is my
-        infrequent blog on technology, politics &amp; life generally.
+        I'm a Software Engineer based in Belfast, N. Ireland.{' '}
+        <span className="no-print">
+          This is my infrequent blog on technology, politics &amp; life
+          generally.
+        </span>
       </h4>
     </div>
   </HeadWrapper>

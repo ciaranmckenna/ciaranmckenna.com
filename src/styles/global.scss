@@ -113,3 +113,47 @@ form {
     padding: 1rem;
   }
 }
+
+/* Print styles */
+@media print {
+  body {
+    color: #000;
+    background: #fff;
+  }
+
+  footer,
+  nav,
+  .no-print {
+    display: none !important;
+  }
+
+  @page {
+    margin: 2cm;
+  }
+
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+
+  ul,
+  img {
+    page-break-inside: avoid;
+  }
+
+  article a {
+    font-weight: bolder;
+    text-decoration: none;
+  }
+
+  article a[href^='http']:after {
+    content: ' <' attr(href) '> ';
+  }
+}
+
+@media print and (color) {
+  * {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
