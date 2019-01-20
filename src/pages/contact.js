@@ -62,21 +62,31 @@ export default class Contact extends React.Component {
             <label>
               Your name:
               <br />
-              <input type="text" name="name" onChange={this.handleChange} />
+              <input
+                type="text"
+                name="name"
+                onChange={this.handleChange}
+                required
+              />
             </label>
           </p>
           <p>
             <label>
               Your email:
               <br />
-              <input type="email" name="email" onChange={this.handleChange} />
+              <input
+                type="email"
+                name="email"
+                onChange={this.handleChange}
+                required
+              />
             </label>
           </p>
           <p>
             <label>
               Message:
               <br />
-              <textarea name="message" onChange={this.handleChange} />
+              <textarea name="message" onChange={this.handleChange} required />
             </label>
           </p>
           <p>
