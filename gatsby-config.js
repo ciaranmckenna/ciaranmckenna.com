@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Barry McGee`,
-    description: `Infrequent blog of Barry McGee - a software developer base in Belfast, N. Ireland on technology, politics & life generally.`,
-    author: `@barrymcgee`,
-    siteUrl: `https://www.barrymcgee.co.uk`,
-    image: `https://pbs.twimg.com/profile_images/1068080607585075200/1sjzKTuJ_400x400.jpg`,
+    title: `Ciaran McKenna`,
+    description: `Infrequent blog of Ciaran - a software developer based in Belfast, N. Ireland on technology, politics & life generally.`,
+    author: `@ciaranmckenna`,
+    siteUrl: `https://www.ciaranmckenna.com`,
+    image: `https://pbs.twimg.com/profile_images/991567557852311553/3hJVSsSa_400x400.jpg`,
   },
   plugins: [
     `gatsby-plugin-sitemap`,

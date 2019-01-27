@@ -47,8 +47,8 @@ const Header = ({ siteTitle }) => (
   <HeadWrapper>
     <Link to="/" className="no-underline">
       <img
-        alt="Barry McGee"
-        src="https://pbs.twimg.com/profile_images/1068080607585075200/1sjzKTuJ_400x400.jpg"
+        alt="Ciaran McKenna"
+        src="https://pbs.twimg.com/profile_images/991567557852311553/3hJVSsSa_400x400.jpg"
       />
     </Link>
     <div>
