@@ -68,7 +68,7 @@ export default class footer extends Component {
           <li>
             <a
               className="no-underline"
-              href="https://www.linkedin.com/in/barrymcgee"
+              href="https://www.linkedin.com/in/ciar%C3%A1n-mckenna/"
             >
               <img src={linkedinLogo} alt="LinkedIn" />
             </a>
@@ -76,7 +76,7 @@ export default class footer extends Component {
           <li>
             <a
               className="no-underline"
-              href="https://www.twitter.com/barrymcgee"
+              href="https://www.twitter.com/ciaranmckenna"
             >
               <img src={twitterLogo} alt="Twitter" />
             </a>
