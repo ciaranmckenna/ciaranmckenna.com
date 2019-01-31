@@ -56,7 +56,7 @@ const Header = ({ siteTitle }) => (
       <h4>
         I'm a Software Engineer based in Belfast, N. Ireland.{' '}
         <span className="no-print">
-          Here I occasionly discuss technology, politics &amp; healthy living.
+          Here I occasionally discuss technology, politics &amp; healthy living.
         </span>
       </h4>
     </div>
