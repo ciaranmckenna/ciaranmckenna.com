@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Ciaran McKenna`,
-    description: `Infrequent blog of Ciaran - a software developer based in Belfast, N. Ireland on technology, politics & life generally.`,
+    description: `Infrequent blog of Ciaran - a software developer based in Belfast, N. Ireland on technology, politics & healthy living.`,
     author: `@ciaranmckenna`,
     siteUrl: `https://www.ciaranmckenna.com`,
     image: `https://pbs.twimg.com/profile_images/991567557852311553/3hJVSsSa_400x400.jpg`,

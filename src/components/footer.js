@@ -2,9 +2,8 @@ import React, { Component } from 'react';
 
 import githubLogo from '../images/icons/github.svg';
 import linkedinLogo from '../images/icons/linkedin.svg';
-import twitterLogo from '../images/icons/twitter.svg';
-
 import styled from 'styled-components';
+import twitterLogo from '../images/icons/twitter.svg';
 
 const Footer = styled.footer`
   border-top: 1px solid #ccc;
@@ -52,7 +51,7 @@ export default class footer extends Component {
               GPL v3.0
             </a>
             . Found a bug?{' '}
-            <a href="https://github.com/barrymcgee/bmg-co-uk/issues">
+            <a href="https://github.com/ciaranmckenna/ciaranmckenna.com/issues">
               Let me know!
             </a>
           </p>
@@ -61,7 +60,7 @@ export default class footer extends Component {
           <li>
             <a
               className="no-underline"
-              href="https://www.github.com/barrymcgee"
+              href="https://www.github.com/ciaranmckenna"
             >
               <img src={githubLogo} alt="Github" />
             </a>
@@ -69,7 +68,7 @@ export default class footer extends Component {
           <li>
             <a
               className="no-underline"
-              href="https://www.linkedin.com/in/barrymcgee"
+              href="https://www.linkedin.com/in/ciar%C3%A1n-mckenna/"
             >
               <img src={linkedinLogo} alt="LinkedIn" />
             </a>
@@ -77,7 +76,7 @@ export default class footer extends Component {
           <li>
             <a
               className="no-underline"
-              href="https://www.twitter.com/barrymcgee"
+              href="https://www.twitter.com/ciaranmckenna"
             >
               <img src={twitterLogo} alt="Twitter" />
             </a>
