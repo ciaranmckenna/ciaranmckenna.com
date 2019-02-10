@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
-import { graphql } from 'gatsby';
+
 import Layout from './layout';
-import styled from 'styled-components';
 import SEO from './seo';
+import { graphql } from 'gatsby';
+import styled from 'styled-components';
 
 const PostContent = styled.div`
   h1 {
@@ -18,7 +19,7 @@ const PostContent = styled.div`
   }
 
   figcaption {
-    color: #828282;
+    color: #6680244;
     font-size: 0.9rem;
     text-align: center;
   }
@@ -34,7 +35,7 @@ const PostHeading = styled.h1`
 
 const PostMetaData = styled.div`
   display: flex;
-  color: #828282;
+  color: #6680244;
 
   time {
     margin-right: 0.5rem;
