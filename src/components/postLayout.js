@@ -19,7 +19,7 @@ const PostContent = styled.div`
   }
 
   figcaption {
-    color: #6680244;
+    color: #4B4444;
     font-size: 0.9rem;
     text-align: center;
   }
@@ -35,7 +35,7 @@ const PostHeading = styled.h1`
 
 const PostMetaData = styled.div`
   display: flex;
-  color: #6680244;
+  color: #4B4444;
 
   time {
     margin-right: 0.5rem;
