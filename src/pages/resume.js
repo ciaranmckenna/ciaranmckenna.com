@@ -158,7 +158,7 @@ const Resume = () => (
           <p>
           I was nominated to enroll in the Professional Headship Qualification cohort of 
           2015/16, an accredited course for those aspiring to headship. 
-          This course provides opportunity for:
+          This course provided opportunity for:
           Improving and developing strategic leadership expertise
           Developing key leadership and management skills
           Enabling you to build on your leadership and management strengths
