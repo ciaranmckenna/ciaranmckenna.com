@@ -106,7 +106,7 @@ const Resume = () => (
             <img src={aeponaLogo} alt="Aepona logo" />
           </h3>
           <p>
-            <em>Aepona</em> are a software provider that offers secure enterprise
+            <em>Aepona</em> are a software provider that offer secure enterprise
             infrastructure, creating flexible and customisable solutions.
           </p>
           <p>
