@@ -156,7 +156,7 @@ const Resume = () => (
             <img src={educationAutorityLogo} alt="Education Authority Logo" />
           </h3>
           <p>
-          I was nominated to enrole in the Professional Headship Qualification cohort of 
+          I was nominated to enroll in the Professional Headship Qualification cohort of 
           2015/16, an accredited course for those aspiring to headship. 
           This course provides opportunity for:
           Improving and developing strategic leadership expertise
