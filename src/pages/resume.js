@@ -90,7 +90,7 @@ const Resume = () => (
           This is a front office application for boutique asset managers. 
           The application compromises of compliance modelling, order generation and reconciliation modules.
           The user interface was developed with Angular 4, for which I have received training. 
-          The styling of the application makes use of the Bootstrap, enabling a consistent and reactive design.
+          The styling of the application makes use of Bootstrap, enabling a consistent and responsive design.
           </p>
         </div>
       </section>
