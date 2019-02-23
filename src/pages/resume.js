@@ -63,7 +63,7 @@ const Resume = () => (
           </p>
           <p>
           In my role as an Application Developer with Citi, 
-          I work with a development team to deliver continuous stability and enhancement to the e – Trading platform. 
+          I work with a development team to deliver continuous stability and enhancement to the e-Trading platform. 
           I have been a liaison with global business and development teams, 
           coordinating the testing of new and upgraded market-data components.
           </p>
