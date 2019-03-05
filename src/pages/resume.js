@@ -57,7 +57,7 @@ const Resume = () => (
           </p>
           <p>
           In my role as an Application Developer with Citi, 
-          I work with a development team to deliver continuous stability and enhancement to the e – Trading platform. 
+          I work with a development team to deliver continuous stability and enhancement to the e-Trading platform. 
           I have been a liaison with global business and development teams, 
           coordinating the testing of new and upgraded market-data components.
           </p>
@@ -84,7 +84,7 @@ const Resume = () => (
           This is a front office application for boutique asset managers. 
           The application compromises of compliance modelling, order generation and reconciliation modules.
           The user interface was developed with Angular 4, for which I have received training. 
-          The styling of the application makes use of the Bootstrap, enabling a consistent and reactive design.
+          The styling of the application makes use of Bootstrap, enabling a consistent and responsive design.
           </p>
         </div>
       </section>
@@ -100,7 +100,7 @@ const Resume = () => (
             <img src={aeponaLogo} alt="Aepona logo" />
           </h3>
           <p>
-            <em>Aepona</em> are a software provider that offers secure enterprise
+            <em>Aepona</em> are a software provider that offer secure enterprise
             infrastructure, creating flexible and customisable solutions.
           </p>
           <p>
@@ -150,9 +150,9 @@ const Resume = () => (
             <img src={educationAutorityLogo} alt="Education Authority Logo" />
           </h3>
           <p>
-          I was nominated to enrole in the Professional Headship Qualification cohort of 
+          I was nominated to enroll in the Professional Headship Qualification cohort of 
           2015/16, an accredited course for those aspiring to headship. 
-          This course provides opportunity for:
+          This course provided opportunity for:
           Improving and developing strategic leadership expertise
           Developing key leadership and management skills
           Enabling you to build on your leadership and management strengths
