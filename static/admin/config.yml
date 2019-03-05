@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: master
-  repo: barrymcgee/barrymcgee.co.uk
+  repo: ciaranmckenna/ciaranmckenna.com
   squash_merges: true
 
 publish_mode: editorial_workflow
