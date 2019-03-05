@@ -2,9 +2,11 @@
 title: From Teaching to Tech
 slug: from-teaching-to-tech
 date: '2018-05-01'
-opener: >-
-  Here I chat about switching from teaching algebra to learning about agile.
+opener: Here I chat about switching from teaching algebra to learning about agile.
 featured: /images/teachingtotech.jpg
+category:
+  - development
+  - life
 ---
 
 I know it is cliché, but a change is as good as a rest and I was excited about my career break giving me the opportunity to diversify and do something new.
