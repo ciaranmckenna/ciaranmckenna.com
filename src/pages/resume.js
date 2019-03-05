@@ -1,6 +1,7 @@
 import Layout from '../components/layout';
 import React from 'react';
 import SEO from '../components/seo';
+
 import aeponaLogo from '../images/logos/aepona.png';
 import citiLogo from '../images/logos/citi.png';
 import consalisLogo from '../images/logos/ConsalisLogo.png';
@@ -9,6 +10,7 @@ import educationAutorityLogo from '../images/logos/educationauthority.png';
 import qubLogo from '../images/logos/qub.png';
 import stMarysLogo from '../images/logos/stmarys.png';
 import styled from 'styled-components';
+import uuLogo from '../images/logos/uu.svg';
 
 const ResumeWrap = styled.div`
   h2 {
