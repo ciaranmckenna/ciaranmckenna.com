@@ -1,7 +1,6 @@
-import React from 'react';
 import Layout from '../components/layout';
+import React from 'react';
 import SEO from '../components/seo';
-
 import bbcLogo from '../images/logos/bbc.svg';
 import canonicalLogo from '../images/logos/canonical.svg';
 import futurelearnLogo from '../images/logos/futurelearn.svg';
@@ -9,9 +8,8 @@ import kahootLogo from '../images/logos/kahoot.svg';
 import madebymanyLogo from '../images/logos/madebymany.svg';
 import nuffieldHealthLogo from '../images/logos/nuffield-health.svg';
 import othermediaLogo from '../images/logos/othermedia.svg';
-import uuLogo from '../images/logos/uu.svg';
-
 import styled from 'styled-components';
+import uuLogo from '../images/logos/uu.svg';
 
 const ResumeWrap = styled.div`
   h2 {
@@ -85,7 +83,7 @@ const Resume = () => (
           </h3>
           <p>
             <em>Made by Many</em> is an award winning innovation accelerator
-            based in Angel. I'm worked with them over 5 two week sprints to
+            based in Angel. I worked with them over 5 two week sprints to
             develop a complex Ruby on Rails product with an accompanying Pattern
             Library for a leading scientific laboratory.
           </p>
