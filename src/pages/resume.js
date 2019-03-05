@@ -91,8 +91,8 @@ const Resume = () => (
       <section className="entry-list__item row">
         <div className="column">
           <span className="entry-list__meta">
-            <time datetime="2015-02-04">June</time> &ndash;
-            <time datetime="2015-10-16">Sept 2015 (Master's Project)</time>
+            <time datetime="2017-06-14">June</time> &ndash;
+            <time datetime="2017-09-16">Sept 2017 (Master's Project)</time>
           </span>
         </div>
         <div className="column column-75">
@@ -127,9 +127,7 @@ const Resume = () => (
             <img src={qubLogo} alt="Qub logo" />
           </h3>
           <p>
-          <a href="https://www.qub.ac.uk/courses/postgraduate-taught/software-development-msc/"></a>
-          During the academic year of 2016/17 I enrolled in the MSc Software Development
-          course offered by Queen's University Belfast.
+          During the academic year of 2016/17 I enrolled in the <a href="https://www.qub.ac.uk/courses/postgraduate-taught/software-development-msc/">MSc Software Development</a> course offered by Queen's University Belfast.
 
           This course gave me an opportunity to analyse and solve problems 
           through the design of robust and elegant software systems. 
