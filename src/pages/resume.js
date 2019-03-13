@@ -10,7 +10,6 @@ import educationAutorityLogo from '../images/logos/educationauthority.png';
 import qubLogo from '../images/logos/qub.png';
 import stMarysLogo from '../images/logos/stmarys.png';
 import styled from 'styled-components';
-import uuLogo from '../images/logos/uu.svg';
 
 const ResumeWrap = styled.div`
   h2 {
