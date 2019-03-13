@@ -1,9 +1,8 @@
 {
-  "name": "barrymcgee.co.uk",
+  "name": "ciaranmckenna.com",
   "private": true,
-  "description": "The personal website and blog of Barry McGee.",
+  "description": "The personal website and blog of Ciaran McKenna",
   "version": "0.1.0",
-  "author": "Barry McGee <hello@barrymcgee.co.uk>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
     "gatsby": "^2.0.91",
@@ -53,9 +52,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/barrymcgee/barrymcgee.co.uk"
+    "url": "https://github.com/ciaranmckenna/ciaranmckenna.com"
   },
   "bugs": {
-    "url": "https://github.com/barrymcgee/barrymcgee.co.uk/issues"
+    "url": "https://github.com/ciaranmckenna/ciaranmckenna.com/issues"
   }
 }
