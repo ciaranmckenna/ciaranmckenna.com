@@ -1,5 +1,5 @@
 ---
-title: 'Getting better never stops. '
+title: 'Getting Better Never Stops '
 slug: getting-better-never-stops
 date: 2019-03-13T21:34:16.887Z
 opener: >-
