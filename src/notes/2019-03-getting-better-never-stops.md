@@ -5,7 +5,7 @@ date: 2019-03-13T21:34:16.887Z
 opener: >-
   I always want to improve what I am doing, be that in my professional life or
   my recreational life.
-featured: /images/fatos-bytyqi-535528-unsplash.jpg
+featured: /images/typing.jpg
 category:
   - development
   - productivity
