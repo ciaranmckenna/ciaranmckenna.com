@@ -11,9 +11,13 @@ category:
   - life
   - productivity
 ---
-It’s always a good idea to visit San Francisco, but doing so on a tech ticket makes it extra special. The who’s who of the technology world are located at each street corner, the industry’s biggest players are based here and the city thrives off it.  Not to mention that this year’s event was being hosted in the highly impressive headquarters of GitHub, right in the heart of the city.
+It’s always a good idea to visit San Francisco, but doing so on a tech ticket makes it extra special. 
 
-The two-day conference was great, it attracted over 200 developers and a full schedule of speakers delivering talks on a multitude of React based topics. Our every need was catered for, thanks to the cool surroundings of Github’s office space and a full team of food and drink servers who ensured we didn't get hungry or become dehydrated. 
+The who’s who of the technology world are located at each street corner, the industry’s biggest players are based here and the city thrives off it.  Not to mention that this year’s event was being hosted in the highly impressive headquarters of GitHub, right in the heart of the city.
+
+The two-day conference was great, it attracted over 200 developers and a full schedule of speakers delivering talks on a multitude of React based topics. 
+
+Our every need was catered for, thanks to the cool surroundings of Github’s office space and a full team of food and drink servers who ensured we didn't get hungry or become dehydrated. 
 
 A series of lightning talks kicked proceedings off on Saturday evening with Ken Wheeler discussing the renderless component pattern to make sweet music, his fellow speakers then in-turn delivered their prepared pieces on a range of topics related to the React ecosystem.  
 
