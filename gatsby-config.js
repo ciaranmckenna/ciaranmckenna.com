@@ -47,11 +47,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Barry McGee`,
-        short_name: `barrymcgee`,
+        name: `Ciaran McKenna`,
+        short_name: `ciaranmckenna`,
         start_url: `/`,
-        background_color: `#508b62`,
-        theme_color: `#508b62`,
+        background_color: `#4394ca`,
+        theme_color: `#4394ca`,
         display: `minimal-ui`,
         icon: `src/images/avatar.jpg`, // This path is relative to the root of the site.
       },
@@ -94,7 +94,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-embed-gist`,
             options: {
-              username: 'barrymcgee',
+              username: 'ciaranmckenna',
             },
           },
         ],
