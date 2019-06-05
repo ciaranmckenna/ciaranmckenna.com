@@ -1,6 +1,6 @@
 ---
 title: The Potential Impact of Brexit on Tech
-slug: the-potential-impact-of-brexit-ontech
+slug: the-potential-impact-of-brexit-on-tech
 date: 2019-06-05T18:58:13.752Z
 opener: >-
   Little did David Cameron know that his promise to the right wing of his
