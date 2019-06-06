@@ -16,7 +16,7 @@ A bloody battle of lies and betrayal saw the referendum passed with 52% of the n
 
 Three years later and Brexit calamity is still trudging along the road from Brussels to London. 
 
-Why hasn’t it happened already?
+## Why hasn’t it happened already?
 
 Relationship breakups are complicated when neither side agree on future terms and conditions. Add 46 years of economic marriage and the task becomes a lot more difficult. 
 
@@ -28,7 +28,7 @@ Her ambition to leave Europe with a sensible deal was not helped by the fact tha
 
 After a series of “meaningful votes” on the withdrawal agreement, Mrs May failed to secure a majority for her plan. The government was and still is divided on Brexit but unified on removing Theresa May as PM. She has since signalled her intention to step down on June 7th, leaving voters are unsure of what will happen next.
 
-## But how does this affect tech? 
+## But how does this affect tech?
 
 The UK makes up 1% of the world’s population and holds 3% of global GDP. This 3% figure on its own will do little to sway the global IT industry which operates off a Network Economic Model that gains its transactional value through mass transactions. 
 
@@ -78,18 +78,10 @@ It’s clear to be seen, the UK’s difficulty has become an opportunity for oth
 
 ## References
 
-Brexit and technology: How network effects will damage UK IT industry
-
-As Brexit advances what impact will it have on UK tech?
-
-What a no-deal Brexit could mean for the UK’s technology sector
-
-The Brexit divide in the UK’s tech industry
-
-“Frankly insane?” Tech industry reacts to Brexit Withdrawal Agreement
-
-Netherlands talking to 250 firms about leaving UK
-
-The nationality of workers in the UK tech industry
-
-The nationality of workers in the UK tech industry
+* [Brexit and technology: How network effects will damage UK IT industry](https://www.computerweekly.com/opinion/Brexit-and-technology-How-network-effects-will-damage-UK-IT-industry)
+* [As Brexit advances what impact will it have on UK tech?](https://www.information-age.com/brexit-impact-uk-tech-123476492/)
+* [What a no-deal Brexit could mean for the UK’s technology sector](https://inews.co.uk/news/technology/no-deal-brexit-uk-technology-industry-sector/)
+* [The Brexit divide in the UK’s tech industry](https://www.alphr.com/politics/1010351/the-brexit-divide-in-the-uks-tech-industry)
+* [“Frankly insane?” Tech industry reacts to Brexit Withdrawal Agreement](https://www.verdict.co.uk/tech-and-brexit-withdrawal-agreement/)
+* [Netherlands talking to 250 firms about leaving UK](https://www.theguardian.com/politics/2019/feb/09/brexit-uk-companies-discuss-moving-to-netherlands)
+* [The nationality of workers in the UK tech industry](https://technation.io/news/tech-nation-talent-nationality-workers-uk-tech-industry/)
