@@ -12,8 +12,6 @@ category:
   - politics
   - technology
 ---
-The Potential Impact of Brexit on Tech
-
 A bloody battle of lies and betrayal saw the referendum passed with 52% of the national vote. However, this was not the case for all regions of the UK as Northern Ireland and Scotland voted to remain part of the EU.
 
 Three years later and Brexit calamity is still trudging along the road from Brussels to London. 
@@ -30,7 +28,7 @@ Her ambition to leave Europe with a sensible deal was not helped by the fact tha
 
 After a series of “meaningful votes” on the withdrawal agreement, Mrs May failed to secure a majority for her plan. The government was and still is divided on Brexit but unified on removing Theresa May as PM. She has since signalled her intention to step down on June 7th, leaving voters are unsure of what will happen next.
 
-But how does this affect tech? 
+## But how does this affect tech? 
 
 The UK makes up 1% of the world’s population and holds 3% of global GDP. This 3% figure on its own will do little to sway the global IT industry which operates off a Network Economic Model that gains its transactional value through mass transactions. 
 
@@ -40,7 +38,7 @@ Figures like these influence industries, make laws and set policies. Add the fac
 
 Therefore, with the UK either inside or outside of the EU Single Market, control would still come from Europe, making the case for an independent Britain pointless with regards to policies and protection laws in tech.  
 
-Flow of Data
+## Flow of Data
 
 For a company, the processing of data, belonging to EU citizens is straight-forward, provided that the company is based in an EU country. 
 
@@ -52,7 +50,7 @@ Which is good for now. But with ever-changing nature of laws and regulations, wh
 
 In addition to the flow of data, the use of EU databases will also incur a charge for Britain if Brexit goes ahead. Extra financial stresses like these will have a negative impact on the British tech start-up culture, thus impacting the industry’s success. 
 
-Talent Acquisition
+## Talent Acquisition
 
 The success of any company is built on the backs of its employees, none more so than a tech company, for a number of reasons.
 
@@ -64,7 +62,7 @@ In a post-Brexit climate, taking back control and hardening of borders may make 
 
 Employment in the UK tech industry is diverse, a Tech NationTalent report shows that non-UK workers made up 13% of the digital workforce. Sustaining these numbers will be important for the survival of the industry across the UK. The threat of Brexit puts pressure on the acquisition of talent and therefore the industry itself.      
 
-Continued Innovation
+## Continued Innovation
 
 If the current figures from the European Investment Fund (EIF) are anything to go by, the support of the UK’s tech innovation portfolio will soon have dried up. Funding has tumbled since the triggering of Article 50, with EU money falling from €708.8 million in 2016 to a mere €61.1 million twelve months later.         
 
@@ -78,12 +76,20 @@ Huge multinational companies, already based in the UK, are being scared off as t
 
 It’s clear to be seen, the UK’s difficulty has become an opportunity for other countries. 
 
-**References**
+## References
 
-* [Brexit and technology: How network effects will damage UK IT industry](https://www.computerweekly.com/opinion/Brexit-and-technology-How-network-effects-will-damage-UK-IT-industry)
-* [As Brexit advances what impact will it have on UK tech?](https://www.information-age.com/brexit-impact-uk-tech-123476492/)
-* [What a no-deal Brexit could mean for the UK’s technology sector](https://inews.co.uk/news/technology/no-deal-brexit-uk-technology-industry-sector/)
-* [The Brexit divide in the UK’s tech industry](https://www.alphr.com/politics/1010351/the-brexit-divide-in-the-uks-tech-industry)
-* [“Frankly insane?” Tech industry reacts to Brexit Withdrawal Agreement](https://www.verdict.co.uk/tech-and-brexit-withdrawal-agreement/)
-* [Netherlands talking to 250 firms about leaving UK](https://www.theguardian.com/politics/2019/feb/09/brexit-uk-companies-discuss-moving-to-netherlands)
-* [The nationality of workers in the UK tech industry](https://technation.io/news/tech-nation-talent-nationality-workers-uk-tech-industry/)
+Brexit and technology: How network effects will damage UK IT industry
+
+As Brexit advances what impact will it have on UK tech?
+
+What a no-deal Brexit could mean for the UK’s technology sector
+
+The Brexit divide in the UK’s tech industry
+
+“Frankly insane?” Tech industry reacts to Brexit Withdrawal Agreement
+
+Netherlands talking to 250 firms about leaving UK
+
+The nationality of workers in the UK tech industry
+
+The nationality of workers in the UK tech industry
