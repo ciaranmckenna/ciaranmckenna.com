@@ -12,6 +12,8 @@ category:
   - politics
   - technology
 ---
+The Potential Impact of Brexit on Tech
+
 A bloody battle of lies and betrayal saw the referendum passed with 52% of the national vote. However, this was not the case for all regions of the UK as Northern Ireland and Scotland voted to remain part of the EU.
 
 Three years later and Brexit calamity is still trudging along the road from Brussels to London. 
@@ -76,20 +78,12 @@ Huge multinational companies, already based in the UK, are being scared off as t
 
 It’s clear to be seen, the UK’s difficulty has become an opportunity for other countries. 
 
-References
+**References**
 
-Brexit and technology: How network effects will damage UK IT industry
-
-As Brexit advances what impact will it have on UK tech?
-
-What a no-deal Brexit could mean for the UK’s technology sector
-
-The Brexit divide in the UK’s tech industry
-
-“Frankly insane?” Tech industry reacts to Brexit Withdrawal Agreement
-
-Netherlands talking to 250 firms about leaving UK
-
-The nationality of workers in the UK tech industry
-
-The nationality of workers in the UK tech industry
+* [Brexit and technology: How network effects will damage UK IT industry](https://www.computerweekly.com/opinion/Brexit-and-technology-How-network-effects-will-damage-UK-IT-industry)
+* [As Brexit advances what impact will it have on UK tech?](https://www.information-age.com/brexit-impact-uk-tech-123476492/)
+* [What a no-deal Brexit could mean for the UK’s technology sector](https://inews.co.uk/news/technology/no-deal-brexit-uk-technology-industry-sector/)
+* [The Brexit divide in the UK’s tech industry](https://www.alphr.com/politics/1010351/the-brexit-divide-in-the-uks-tech-industry)
+* [“Frankly insane?” Tech industry reacts to Brexit Withdrawal Agreement](https://www.verdict.co.uk/tech-and-brexit-withdrawal-agreement/)
+* [Netherlands talking to 250 firms about leaving UK](https://www.theguardian.com/politics/2019/feb/09/brexit-uk-companies-discuss-moving-to-netherlands)
+* [The nationality of workers in the UK tech industry](https://technation.io/news/tech-nation-talent-nationality-workers-uk-tech-industry/)
