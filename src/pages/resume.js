@@ -8,6 +8,7 @@ import consalisLogo from '../images/logos/ConsalisLogo.png';
 import deniLogo from '../images/logos/deni.png';
 import educationAutorityLogo from '../images/logos/educationauthority.png';
 import qubLogo from '../images/logos/qub.png';
+import rapid7logo from '../images/logos/rapid7-logo.png'
 import stMarysLogo from '../images/logos/stmarys.png';
 import styled from 'styled-components';
 
@@ -43,8 +44,32 @@ const Resume = () => (
       <section className="entry-list__item row">
         <div className="column">
           <span className="entry-list__meta">
-            <time dateTime="2015-10-16">April '18</time> &ndash;
+            <time dateTime="2015-10-16">March '20</time> &ndash;
             <time dateTime="2015-12-18">Present (Full-time employment)</time>
+          </span>
+        </div>
+        <div className="column column-75">
+          <h3 className="entry-list__heading">
+            <img src={rapid7logo} alt="Rapid7 logo" />
+          </h3>
+          <p>
+            <em>Rapid7</em> is a leading provider of cyber security analytics and automation solutions. 
+            It's customers are equipped with a broad range of security products ranging from
+            vulnerability management to incident dection and response.
+          </p>
+          <p>
+          In my role as a software engineer with Rapid7, I work in a development team that 
+          delivers a vulnerability management product to customers globally. This involves 
+          interaction with all aspects of the software development life cycle allowing for the 
+          remediation of defects and the implementation of new features.
+          </p>
+        </div>
+      </section>
+      <section className="entry-list__item row">
+        <div className="column">
+          <span className="entry-list__meta">
+            <time dateTime="2015-10-16">April '18</time> &ndash;
+            <time dateTime="2015-12-18">February '20 (Full-time employment)</time>
           </span>
         </div>
         <div className="column column-75">
@@ -58,7 +83,7 @@ const Resume = () => (
           </p>
           <p>
           In my role as an Application Developer with Citi, 
-          I work with a development team to deliver continuous stability and enhancement to the e-Trading platform. 
+          I worked with a development team to deliver continuous stability and enhancement to the e-Trading platform. 
           I have been a liaison with global business and development teams, 
           coordinating the testing of new and upgraded market-data components.
           </p>
