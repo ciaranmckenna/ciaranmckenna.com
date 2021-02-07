@@ -7,7 +7,7 @@ import consalisLogo from '../images/logos/ConsalisLogo.png';
 import deniLogo from '../images/logos/deni.png';
 import educationAutorityLogo from '../images/logos/educationauthority.png';
 import qubLogo from '../images/logos/qub.png';
-import rapid7logo from '../images/logos/rapid7-logo.png'
+import rapid7logo from '../images/logos/rapid7logo.png'
 import stMarysLogo from '../images/logos/stmarys.png';
 import styled from 'styled-components';
 
