@@ -1,7 +1,6 @@
 import Layout from '../components/layout';
 import React from 'react';
 import SEO from '../components/seo';
-
 import aeponaLogo from '../images/logos/aepona.png';
 import citiLogo from '../images/logos/citi.png';
 import consalisLogo from '../images/logos/ConsalisLogo.png';
@@ -54,8 +53,8 @@ const Resume = () => (
           </h3>
           <p>
             <em>Rapid7</em> is a leading provider of cyber security analytics and automation solutions. 
-            It's customers are equipped with a broad range of security products ranging from
-            vulnerability management to incident dection and response.
+            Their customers are equipped with a broad range of security products ranging from
+            vulnerability management to incident dection and response solutions.
           </p>
           <p>
           In my role as a software engineer with Rapid7, I work in a development team that 
