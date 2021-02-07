@@ -52,15 +52,15 @@ const Resume = () => (
             <img src={rapid7logo} alt="Rapid7 logo" />
           </h3>
           <p>
-            <em>Rapid7</em> is a leading provider of cyber security analytics and automation solutions. 
-            Their customers are equipped with a broad range of security products ranging from
-            vulnerability management to incident dection and response solutions.
+            <em>Rapid7</em> is a leader in cyber security analytics and automation. 
+            They provide a broad range of security products which include vulnerability 
+            management and incident dection and response solutions.
           </p>
           <p>
-          In my role as a software engineer with Rapid7, I work in a development team that 
-          delivers a vulnerability management product to customers globally. This involves 
-          interaction with all aspects of the software development life cycle allowing for the 
-          remediation of defects and the implementation of new features.
+          In my role as a software engineer, I work in a team that delivers a vulnerability 
+          management product to customers globally. This mostly involves Java backend development
+          and Postgres database operations. I interact with all aspects of the software development 
+          life cycle facilitating the remediation of defects and the implementation of new features.
           </p>
         </div>
       </section>
