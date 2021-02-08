@@ -58,17 +58,18 @@ const Resume = () => (
           </p>
           <p>
           In my role as a software engineer, I work in a team that delivers a vulnerability 
-          management product to customers globally. This mostly involves Java backend development
-          and Postgres database operations. I interact with all aspects of the software development 
-          life cycle facilitating the remediation of defects and the implementation of new features.
+          management product to customers globally. This mostly involves Java backend 
+          development and Postgres database operations. I interact with all aspects of 
+          the software development life cycle facilitating the remediation of defects 
+          and the implementation of new features.
           </p>
         </div>
       </section>
       <section className="entry-list__item row">
         <div className="column">
           <span className="entry-list__meta">
-            <time dateTime="2015-10-16">April '18</time> &ndash;
-            <time dateTime="2015-12-18">February '20 (Full-time employment)</time>
+            <time dateTime="2015-10-16">April 2018</time> &ndash;
+            <time dateTime="2015-12-18">February 2020</time>
           </span>
         </div>
         <div className="column column-75">
@@ -143,8 +144,8 @@ const Resume = () => (
       <section className="entry-list__item row">
         <div className="column">
           <span className="entry-list__meta">
-            <time datetime="2014-12-01">Sept '16</time> &ndash;
-            <time datetime="2015-01-28">Sept '17 (MSc in Software Development)</time>
+            <time datetime="2014-12-01">Sept 2016</time> &ndash;
+            <time datetime="2015-01-28">Sept 2017 (MSc in Software Development)</time>
           </span>
         </div>
         <div className="column column-75">
