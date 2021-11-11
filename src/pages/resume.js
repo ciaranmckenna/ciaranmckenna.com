@@ -58,10 +58,16 @@ const Resume = () => (
           </p>
           <p>
           In my role as a software engineer, I work in a team that delivers a vulnerability 
-          management product to customers globally. This mostly involves Java backend 
-          development and Postgres database operations. I interact with all aspects of 
-          the software development life cycle facilitating the remediation of defects 
-          and the implementation of new features.
+          management product to customers globally. The remediation of defects and the implementation 
+          of new features requires collaboration with colleagues and stakeholders across the globe.
+          This mostly involves Java backend development and Postgres database operations. 
+          I interact with all aspects of software development, including requirements gathering 
+          and final deployment of the product. 
+          I managed the set-up of a new development team in Belfast, interviewing and onboarding many of
+          our devs.
+          I established a knowledge share framework and supporting documentation while organising 
+          internal training to support the team's continued growth.
+
           </p>
         </div>
       </section>
@@ -92,8 +98,8 @@ const Resume = () => (
       <section className="entry-list__item row">
         <div className="column">
           <span className="entry-list__meta">
-            <time datetime="2015-10-16">Oct 2017</time> &ndash;
-            <time datetime="2015-12-18">Jan 2018 (Intern contract)</time>
+            <time datetime="2015-10-16">October 2017</time> &ndash;
+            <time datetime="2015-12-18">January 2018 (Intern contract)</time>
           </span>
         </div>
         <div className="column column-75">
@@ -118,7 +124,7 @@ const Resume = () => (
         <div className="column">
           <span className="entry-list__meta">
             <time datetime="2017-06-14">June 2017</time> &ndash;
-            <time datetime="2017-09-16">Sept 2017 (Master's Project)</time>
+            <time datetime="2017-09-16">September 2017 (Master's Project)</time>
           </span>
         </div>
         <div className="column column-75">
@@ -144,8 +150,8 @@ const Resume = () => (
       <section className="entry-list__item row">
         <div className="column">
           <span className="entry-list__meta">
-            <time datetime="2014-12-01">Sept 2016</time> &ndash;
-            <time datetime="2015-01-28">Sept 2017 (MSc in Software Development)</time>
+            <time datetime="2014-12-01">September 2016</time> &ndash;
+            <time datetime="2015-01-28">September 2017 (MSc in Software Development)</time>
           </span>
         </div>
         <div className="column column-75">
@@ -165,7 +171,7 @@ const Resume = () => (
       <section className="entry-list__item row">
         <div className="column">
           <span className="entry-list__meta">
-            <time datetime="2013-07-28">Sept 2015</time> &ndash;
+            <time datetime="2013-07-28">September 2015</time> &ndash;
             <time datetime="2014-11-28">June 2016 (Part-time Qualification)</time>
           </span>
         </div>
@@ -187,8 +193,8 @@ const Resume = () => (
       <section className="entry-list__item row">
         <div className="column">
           <span className="entry-list__meta">
-            <time datetime="2013-07-28">Sept 2008</time> &ndash;
-            <time datetime="2014-11-28">Sept 2016 (Permanent Teaching Position)</time>
+            <time datetime="2013-07-28">September 2008</time> &ndash;
+            <time datetime="2014-11-28">September 2016 (Permanent Teaching Position)</time>
           </span>
         </div>
         <div className="column column-75">
@@ -204,12 +210,12 @@ const Resume = () => (
           </p>
         </div>
       </section>
-      <h2 className="entry-list__section-title">  College years ...</h2>
+      <h2 className="entry-list__section-title">  University years ...</h2>
       <section className="entry-list__item row">
         <div className="column">
           <span className="entry-list__meta">
-            <time datetime="2003-09-18">Sept 2004</time> &ndash;
-            <time datetime="2007-06-04">Jun 2008</time>
+            <time datetime="2003-09-18">September 2004</time> &ndash;
+            <time datetime="2007-06-04">June 2008</time>
           </span>
         </div>
         <div className="column column-75">
