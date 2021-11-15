@@ -73,7 +73,7 @@ const Resume = () => (
         <div className="column">
           <span className="entry-list__meta">
             <time dateTime="2015-10-16">April 2018</time> &ndash;
-            <time dateTime="2015-12-18">February 2020</time>
+            <time dateTime="2015-12-18"> February 2020</time>
           </span>
         </div>
         <div className="column column-75">
@@ -97,7 +97,7 @@ const Resume = () => (
         <div className="column">
           <span className="entry-list__meta">
             <time datetime="2015-10-16">October 2017</time> &ndash;
-            <time datetime="2015-12-18">January 2018 (Intern contract)</time>
+            <time datetime="2015-12-18"> January 2018 (Intern contract)</time>
           </span>
         </div>
         <div className="column column-75">
@@ -122,7 +122,7 @@ const Resume = () => (
         <div className="column">
           <span className="entry-list__meta">
             <time datetime="2017-06-14">June 2017</time> &ndash;
-            <time datetime="2017-09-16">September 2017 (Master's Project)</time>
+            <time datetime="2017-09-16"> September 2017 (Master's Project)</time>
           </span>
         </div>
         <div className="column column-75">
@@ -149,7 +149,7 @@ const Resume = () => (
         <div className="column">
           <span className="entry-list__meta">
             <time datetime="2014-12-01">September 2016</time> &ndash;
-            <time datetime="2015-01-28">September 2017 (MSc in Software Development)</time>
+            <time datetime="2015-01-28"> September 2017 (MSc in Software Development)</time>
           </span>
         </div>
         <div className="column column-75">
@@ -170,7 +170,7 @@ const Resume = () => (
         <div className="column">
           <span className="entry-list__meta">
             <time datetime="2013-07-28">September 2015</time> &ndash;
-            <time datetime="2014-11-28">June 2016 (Part-time Qualification)</time>
+            <time datetime="2014-11-28"> June 2016 (Part-time Qualification)</time>
           </span>
         </div>
         <div className="column column-75">
@@ -192,7 +192,7 @@ const Resume = () => (
         <div className="column">
           <span className="entry-list__meta">
             <time datetime="2013-07-28">September 2008</time> &ndash;
-            <time datetime="2014-11-28">September 2016 (Permanent Teaching Position)</time>
+            <time datetime="2014-11-28"> September 2016 (Permanent Teaching Position)</time>
           </span>
         </div>
         <div className="column column-75">
@@ -213,7 +213,7 @@ const Resume = () => (
         <div className="column">
           <span className="entry-list__meta">
             <time datetime="2003-09-18">September 2004</time> &ndash;
-            <time datetime="2007-06-04">June 2008</time>
+            <time datetime="2007-06-04"> June 2008</time>
           </span>
         </div>
         <div className="column column-75">
