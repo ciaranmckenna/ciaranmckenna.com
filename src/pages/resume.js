@@ -53,8 +53,8 @@ const Resume = () => (
           </h3>
           <p>
             <em>Rapid7</em> is a leader in cyber security analytics and automation. 
-            They provide a broad range of security products which include vulnerability 
-            management and incident detection and response solutions.
+            They provide a broad range of security products including, 
+            vulnerability management, incident detection and response solutions.
           </p>
           <p>
           In my role as a software engineer, I work in a new team that delivers a vulnerability
