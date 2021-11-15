@@ -62,8 +62,10 @@ const Resume = () => (
           colleagues and stakeholders across the globe to remediate defects and implement new 
           product features. Product solutions are provided using Java backend development and 
           Postgres database operations. 
+          </p>
+          <p>
           I managed the set-up of this new development team in Belfast, interviewing and 
-          onboarding many of our current developers. I established a knowledge transfer framework 
+          onboarding many of our current developers. I established a knowledge transfer framework, 
           consisting of documentation and internal training videos that supports understanding 
           of the product, the codebase and the CICD pipeline.
           </p>
