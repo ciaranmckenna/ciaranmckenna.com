@@ -44,7 +44,7 @@ const Resume = () => (
         <div className="column">
           <span className="entry-list__meta">
             <time dateTime="2015-10-16">March 2020</time> &ndash;
-            <time dateTime="2015-12-18">Present (Full-time employment)</time>
+            <time dateTime="2015-12-18"> Present (Full-time employment)</time>
           </span>
         </div>
         <div className="column column-75">
@@ -57,17 +57,15 @@ const Resume = () => (
             management and incident detection and response solutions.
           </p>
           <p>
-          In my role as a software engineer, I work in a team that delivers a vulnerability 
-          management product to customers globally. The remediation of defects and the implementation 
-          of new features requires collaboration with colleagues and stakeholders across the globe.
-          This mostly involves Java backend development and Postgres database operations. 
-          I interact with all aspects of software development, including requirements gathering 
-          and final deployment of the product. 
-          I managed the set-up of a new development team in Belfast, interviewing and onboarding many of
-          our devs.
-          I established a knowledge share framework and supporting documentation while organising 
-          internal training to support the team's continued growth.
-
+          In my role as a software engineer, I work in a new team that delivers a vulnerability
+          management product to business customers globally. This involves collaboration with 
+          colleagues and stakeholders across the globe to remediate defects and implement new 
+          product features. Product solutions are provided using Java backend development and 
+          Postgres database operations. 
+          I managed the set-up of this new development team in Belfast, interviewing and 
+          onboarding many of our current developers. I established a knowledge transfer framework 
+          consisting of documentation and internal training videos that supports understanding 
+          of the product, the codebase and the CICD pipeline.
           </p>
         </div>
       </section>
