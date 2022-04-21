@@ -9,6 +9,7 @@ import educationAutorityLogo from '../images/logos/educationauthority.png';
 import qubLogo from '../images/logos/qub.png';
 import rapid7logo from '../images/logos/rapid7logo.png'
 import stMarysLogo from '../images/logos/stmarys.png';
+import contrastSecurityLogo from '../images/logos/contrast_security_logo.jpeg';
 import styled from 'styled-components';
 
 const ResumeWrap = styled.div`
@@ -40,11 +41,37 @@ const Resume = () => (
     <SEO title="Curriculum Vitae" />
     <h1>Curriculum Vitae</h1>
     <ResumeWrap>
+    <section className="entry-list__item row">
+        <div className="column">
+          <span className="entry-list__meta">
+            <time dateTime="2015-10-16">January 2022</time> &ndash;
+            <time dateTime="2015-12-18">Present (Full-time employment)</time>
+          </span>
+        </div>
+        <div className="column column-75">
+          <h3 className="entry-list__heading">
+            <img src={contrastSecurityLogo} alt="Contrast Security logo" />
+          </h3>
+          <p>
+            <em>Contrast Security</em> is the world's leading provider of security technology 
+            that enables software applications to protect themselves against cyberattacks, 
+            heralding the new era of self-protecting software.
+          </p>
+          <p>
+          In my role as a software engineer, I work in a Java backend team that provides 
+          orchestration infrastructure for an in house static scan analysis tool. 
+          Product solutions are provided using Java backend development which contributes
+          to a micro-services archetecture pattern and Mongo database operations. 
+          Engineering work takes place in a fully devops environment, 
+          where we can deploy multiple times a day to AWS infrastructure.
+          </p>
+        </div>
+      </section>
       <section className="entry-list__item row">
         <div className="column">
           <span className="entry-list__meta">
             <time dateTime="2015-10-16">March 2020</time> &ndash;
-            <time dateTime="2015-12-18"> Present (Full-time employment)</time>
+            <time dateTime="2015-12-18">December 2021</time>
           </span>
         </div>
         <div className="column column-75">
@@ -57,7 +84,7 @@ const Resume = () => (
             vulnerability management, incident detection and response solutions.
           </p>
           <p>
-          In my role as a software engineer, I work in a new team that delivers a vulnerability
+          In my role as a software engineer, I worked in a new team that delivers a vulnerability
           management product to business customers globally. This involves collaboration with 
           colleagues and stakeholders across the globe to remediate defects and implement new 
           product features. Product solutions are provided using Java backend development and 
@@ -65,7 +92,7 @@ const Resume = () => (
           </p>
           <p>
           I managed the set-up of this new development team in Belfast, interviewing and 
-          onboarding many of our current developers. I established a knowledge transfer framework, 
+          onboarding many of the current developers. I established a knowledge transfer framework, 
           consisting of documentation and internal training videos that supports understanding 
           of the product, the codebase and the CICD pipeline.
           </p>
