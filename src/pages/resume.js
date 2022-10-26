@@ -10,6 +10,7 @@ import qubLogo from '../images/logos/qub.png';
 import rapid7logo from '../images/logos/rapid7logo.png'
 import stMarysLogo from '../images/logos/stmarys.png';
 import contrastSecurityLogo from '../images/logos/contrast_security_logo.jpeg';
+import version1Logo from '../images/logos/version1Logo.png';
 import styled from 'styled-components';
 
 const ResumeWrap = styled.div`
@@ -44,8 +45,30 @@ const Resume = () => (
     <section className="entry-list__item row">
         <div className="column">
           <span className="entry-list__meta">
-            <time dateTime="2015-10-16">January 2022</time> &ndash;
+            <time dateTime="2015-10-16">June 2022</time> &ndash;
             <time dateTime="2015-12-18">Present (Full-time employment)</time>
+          </span>
+        </div>
+        <div className="column column-75">
+          <h3 className="entry-list__heading">
+            <img src={version1Logo} alt="Version1 logo" />
+          </h3>
+          <p>
+            <em>Version1</em> is trusted by global brands to deliver IT services 
+            and solutions which drive customer success.
+          </p>
+          <p>
+          In my role as a software developer, I work in a Java team that provides 
+          solutions to enhance the inventory management and distribution systems for a 
+          pharmaceutical client. 
+          </p>
+        </div>
+      </section>
+    <section className="entry-list__item row">
+        <div className="column">
+          <span className="entry-list__meta">
+            <time dateTime="2015-10-16">January 2022</time> &ndash;
+            <time dateTime="2015-12-18">June 2022 </time>
           </span>
         </div>
         <div className="column column-75">
@@ -58,12 +81,12 @@ const Resume = () => (
             heralding the new era of self-protecting software.
           </p>
           <p>
-          In my role as a software engineer, I work in a Java backend team that provides 
+          In my role as a software developer, I worked in a Java backend team that provided 
           orchestration infrastructure for an in house static scan analysis tool. 
           Product solutions are provided using Java backend development which contributes
           to a micro-services archetecture pattern and Mongo database operations. 
           Engineering work takes place in a fully devops environment, 
-          where we can deploy multiple times a day to AWS infrastructure.
+          were deployment occurs multiple times a day to AWS infrastructure.
           </p>
         </div>
       </section>
@@ -84,7 +107,7 @@ const Resume = () => (
             vulnerability management, incident detection and response solutions.
           </p>
           <p>
-          In my role as a software engineer, I worked in a new team that delivers a vulnerability
+          In my role as a software developer, I worked in a new team that delivers a vulnerability
           management product to business customers globally. This involves collaboration with 
           colleagues and stakeholders across the globe to remediate defects and implement new 
           product features. Product solutions are provided using Java backend development and 
